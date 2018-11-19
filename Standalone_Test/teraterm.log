@@ -1,0 +1,2550 @@
+
+[Sun Oct 23 23:23:25.919 2016] This is an ack from gateway
+[Sun Oct 23 23:23:25.919 2016] This is an ack from gateway
+[Sun Oct 23 23:23:25.919 2016] This is an ack from gateway
+[Sun Oct 23 23:23:28.714 2016] ... Starting Setup ...
+[Sun Oct 23 23:23:30.626 2016] Requesting time from Gateway:
+[Sun Oct 23 23:23:30.641 2016] Time value received and updated...
+[Sun Oct 23 23:23:30.641 2016] Clock updated....
+[Sun Oct 23 23:23:30.672 2016] Sensor's time currently set to: 11:23:30pm
+[Sun Oct 23 23:23:30.672 2016] 10/23/2016
+[Sun Oct 23 23:23:32.923 2016] Loading parameters from EEPROM from Month: 10  Day: 23
+[Sun Oct 23 23:23:32.923 2016] Fillcount: 28 and Filltime: 1507
+[Sun Oct 23 23:23:32.923 2016] Initialization Complete!
+[Sun Oct 23 23:23:34.355 2016] ...Starting main loop...
+[Sun Oct 23 23:23:34.355 2016] 11:23:33pm: Checking periodic sensor data.
+[Sun Oct 23 23:23:34.355 2016] Sensor values:
+[Sun Oct 23 23:23:34.390 2016] A0 = 1023
+[Sun Oct 23 23:23:34.390 2016] A1 = 896
+[Sun Oct 23 23:23:34.390 2016] A2 = 919
+[Sun Oct 23 23:23:34.390 2016] Bowl water level: Empty
+[Sun Oct 23 23:23:39.034 2016] This is an ack from gateway
+[Sun Oct 23 23:23:39.050 2016] This is an ack from gateway
+[Sun Oct 23 23:23:44.044 2016] This is an ack from gateway
+[Sun Oct 23 23:23:44.075 2016] This is an ack from gateway
+[Sun Oct 23 23:23:45.061 2016] 11:23:44pm: Button Pressed. State was: 0  State is: 1
+[Sun Oct 23 23:23:45.061 2016] 11:23:44pm: Starting Motor
+[Sun Oct 23 23:23:45.061 2016] Bowl filled 29 time(s) today.
+[Sun Oct 23 23:23:45.061 2016] This is an ack from gateway
+[Sun Oct 23 23:23:45.061 2016] 11:23:44pm: Incoming change for sensor:1, New status: 1
+[Sun Oct 23 23:23:45.682 2016] 11:23:44pm: Button Pressed. State was: 1  State is: 0
+[Sun Oct 23 23:23:45.682 2016] Stopping Motor.
+[Sun Oct 23 23:23:45.682 2016] 11:23:44pm: Saving the following values to EEPROM: 
+[Sun Oct 23 23:23:45.682 2016] Fill Time: 1507
+[Sun Oct 23 23:23:45.682 2016] 29, 5, 227, 10, 23
+[Sun Oct 23 23:23:45.682 2016] This is an ack from gateway
+[Sun Oct 23 23:23:45.682 2016] 11:23:44pm: Incoming change for sensor:1, New status: 0
+[Sun Oct 23 23:23:49.087 2016] This is an ack from gateway
+[Sun Oct 23 23:23:54.054 2016] This is an ack from gateway
+[Sun Oct 23 23:23:54.070 2016] This is an ack from gateway
+[Sun Oct 23 23:23:59.113 2016] This is an ack from gateway
+[Sun Oct 23 23:24:09.124 2016] This is an ack from gateway
+[Sun Oct 23 23:24:09.156 2016] This is an ack from gateway
+[Sun Oct 23 23:24:14.111 2016] This is an ack from gateway
+[Sun Oct 23 23:24:14.129 2016] This is an ack from gateway
+[Sun Oct 23 23:24:15.698 2016] 11:24:14pm: Checking periodic sensor data.
+[Sun Oct 23 23:24:15.708 2016] Sensor values:
+[Sun Oct 23 23:24:15.708 2016] A0 = 935
+[Sun Oct 23 23:24:15.708 2016] A1 = 905
+[Sun Oct 23 23:24:15.708 2016] A2 = 896
+[Sun Oct 23 23:24:15.708 2016] Bowl water level: Empty
+[Sun Oct 23 23:24:19.162 2016] This is an ack from gateway
+[Sun Oct 23 23:24:24.134 2016] This is an ack from gateway
+[Sun Oct 23 23:24:24.149 2016] This is an ack from gateway
+[Sun Oct 23 23:24:29.138 2016] This is an ack from gateway
+[Sun Oct 23 23:24:29.154 2016] This is an ack from gateway
+[Sun Oct 23 23:24:34.195 2016] This is an ack from gateway
+[Sun Oct 23 23:24:39.161 2016] This is an ack from gateway
+[Sun Oct 23 23:24:39.177 2016] This is an ack from gateway
+[Sun Oct 23 23:24:44.171 2016] This is an ack from gateway
+[Sun Oct 23 23:24:44.186 2016] This is an ack from gateway
+[Sun Oct 23 23:24:45.750 2016] 11:24:44pm: Checking periodic sensor data.
+[Sun Oct 23 23:24:45.789 2016] Sensor values:
+[Sun Oct 23 23:24:45.789 2016] A0 = 976
+[Sun Oct 23 23:24:45.789 2016] A1 = 891
+[Sun Oct 23 23:24:45.789 2016] A2 = 917
+[Sun Oct 23 23:24:45.789 2016] Bowl water level: Empty
+[Sun Oct 23 23:24:45.789 2016] 11:24:44pm: Bowl Empty, starting timeout.
+[Sun Oct 23 23:24:49.202 2016] This is an ack from gateway
+[Sun Oct 23 23:24:49.218 2016] This is an ack from gateway
+[Sun Oct 23 23:24:54.259 2016] This is an ack from gateway
+[Sun Oct 23 23:24:59.203 2016] This is an ack from gateway
+[Sun Oct 23 23:24:59.219 2016] This is an ack from gateway
+[Sun Oct 23 23:25:04.223 2016] This is an ack from gateway
+[Sun Oct 23 23:25:04.239 2016] This is an ack from gateway
+[Sun Oct 23 23:25:09.283 2016] This is an ack from gateway
+[Sun Oct 23 23:25:14.223 2016] This is an ack from gateway
+[Sun Oct 23 23:25:14.261 2016] This is an ack from gateway
+[Sun Oct 23 23:25:19.243 2016] This is an ack from gateway
+[Sun Oct 23 23:25:19.274 2016] This is an ack from gateway
+[Sun Oct 23 23:25:24.281 2016] This is an ack from gateway
+[Sun Oct 23 23:25:29.310 2016] This is an ack from gateway
+[Sun Oct 23 23:25:34.316 2016] This is an ack from gateway
+[Sun Oct 23 23:25:39.357 2016] This is an ack from gateway
+[Sun Oct 23 23:25:44.333 2016] This is an ack from gateway
+[Sun Oct 23 23:25:49.342 2016] This is an ack from gateway
+[Sun Oct 23 23:25:54.367 2016] This is an ack from gateway
+[Sun Oct 23 23:25:59.384 2016] This is an ack from gateway
+[Sun Oct 23 23:26:04.339 2016] This is an ack from gateway
+[Sun Oct 23 23:26:04.355 2016] This is an ack from gateway
+[Sun Oct 23 23:26:09.346 2016] This is an ack from gateway
+[Sun Oct 23 23:26:09.377 2016] This is an ack from gateway
+[Sun Oct 23 23:26:14.370 2016] This is an ack from gateway
+[Sun Oct 23 23:26:19.371 2016] This is an ack from gateway
+[Sun Oct 23 23:26:19.402 2016] This is an ack from gateway
+[Sun Oct 23 23:26:24.392 2016] This is an ack from gateway
+[Sun Oct 23 23:26:24.407 2016] This is an ack from gateway
+[Sun Oct 23 23:26:29.427 2016] This is an ack from gateway
+[Sun Oct 23 23:26:34.400 2016] This is an ack from gateway
+[Sun Oct 23 23:26:34.436 2016] This is an ack from gateway
+[Sun Oct 23 23:26:39.449 2016] This is an ack from gateway
+[Sun Oct 23 23:26:44.472 2016] This is an ack from gateway
+[Sun Oct 23 23:26:49.453 2016] This is an ack from gateway
+[Sun Oct 23 23:26:49.484 2016] This is an ack from gateway
+[Sun Oct 23 23:26:54.456 2016] This is an ack from gateway
+[Sun Oct 23 23:26:54.459 2016] This is an ack from gateway
+[Sun Oct 23 23:26:59.454 2016] This is an ack from gateway
+[Sun Oct 23 23:27:04.503 2016] This is an ack from gateway
+[Sun Oct 23 23:27:09.475 2016] This is an ack from gateway
+[Sun Oct 23 23:27:09.491 2016] This is an ack from gateway
+[Sun Oct 23 23:27:19.498 2016] This is an ack from gateway
+[Sun Oct 23 23:27:24.556 2016] This is an ack from gateway
+[Sun Oct 23 23:27:29.562 2016] This is an ack from gateway
+[Sun Oct 23 23:27:34.584 2016] This is an ack from gateway
+[Sun Oct 23 23:27:39.540 2016] This is an ack from gateway
+[Sun Oct 23 23:27:39.574 2016] This is an ack from gateway
+[Sun Oct 23 23:27:44.590 2016] This is an ack from gateway
+[Sun Oct 23 23:27:49.554 2016] This is an ack from gateway
+[Sun Oct 23 23:27:49.585 2016] This is an ack from gateway
+[Sun Oct 23 23:27:54.555 2016] This is an ack from gateway
+[Sun Oct 23 23:27:59.586 2016] This is an ack from gateway
+[Sun Oct 23 23:28:04.601 2016] This is an ack from gateway
+[Sun Oct 23 23:28:09.647 2016] This is an ack from gateway
+[Sun Oct 23 23:28:09.663 2016] This is an ack from gateway
+[Sun Oct 23 23:28:14.666 2016] This is an ack from gateway
+[Sun Oct 23 23:28:24.691 2016] This is an ack from gateway
+[Sun Oct 23 23:28:29.660 2016] This is an ack from gateway
+[Sun Oct 23 23:28:29.675 2016] This is an ack from gateway
+[Sun Oct 23 23:28:34.670 2016] This is an ack from gateway
+[Sun Oct 23 23:28:34.683 2016] This is an ack from gateway
+[Sun Oct 23 23:28:39.675 2016] This is an ack from gateway
+[Sun Oct 23 23:28:39.676 2016] This is an ack from gateway
+[Sun Oct 23 23:28:44.679 2016] This is an ack from gateway
+[Sun Oct 23 23:28:44.710 2016] This is an ack from gateway
+[Sun Oct 23 23:28:49.698 2016] This is an ack from gateway
+[Sun Oct 23 23:28:49.714 2016] This is an ack from gateway
+[Sun Oct 23 23:28:54.704 2016] This is an ack from gateway
+[Sun Oct 23 23:28:54.719 2016] This is an ack from gateway
+[Sun Oct 23 23:28:59.703 2016] This is an ack from gateway
+[Sun Oct 23 23:28:59.735 2016] This is an ack from gateway
+[Sun Oct 23 23:29:04.735 2016] This is an ack from gateway
+[Sun Oct 23 23:29:04.735 2016] This is an ack from gateway
+[Sun Oct 23 23:29:09.782 2016] This is an ack from gateway
+[Sun Oct 23 23:29:14.735 2016] This is an ack from gateway
+[Sun Oct 23 23:29:14.767 2016] This is an ack from gateway
+[Sun Oct 23 23:29:19.784 2016] This is an ack from gateway
+[Sun Oct 23 23:29:24.798 2016] This is an ack from gateway
+[Sun Oct 23 23:29:24.815 2016] This is an ack from gateway
+[Sun Oct 23 23:29:29.815 2016] This is an ack from gateway
+[Sun Oct 23 23:29:29.822 2016] This is an ack from gateway
+[Sun Oct 23 23:29:34.830 2016] This is an ack from gateway
+[Sun Oct 23 23:29:44.841 2016] This is an ack from gateway
+[Sun Oct 23 23:29:44.888 2016] This is an ack from gateway
+[Sun Oct 23 23:29:49.862 2016] This is an ack from gateway
+[Sun Oct 23 23:29:59.891 2016] This is an ack from gateway
+[Sun Oct 23 23:30:04.859 2016] This is an ack from gateway
+[Sun Oct 23 23:30:04.890 2016] This is an ack from gateway
+[Sun Oct 23 23:30:09.897 2016] This is an ack from gateway
+[Sun Oct 23 23:30:14.912 2016] This is an ack from gateway
+[Sun Oct 23 23:30:19.909 2016] This is an ack from gateway
+[Sun Oct 23 23:30:24.896 2016] This is an ack from gateway
+[Sun Oct 23 23:30:24.928 2016] This is an ack from gateway
+[Sun Oct 23 23:30:29.947 2016] This is an ack from gateway
+[Sun Oct 23 23:30:34.909 2016] This is an ack from gateway
+[Sun Oct 23 23:30:34.925 2016] This is an ack from gateway
+[Sun Oct 23 23:30:39.929 2016] This is an ack from gateway
+[Sun Oct 23 23:30:39.957 2016] This is an ack from gateway
+[Sun Oct 23 23:30:44.957 2016] This is an ack from gateway
+[Sun Oct 23 23:30:44.985 2016] This is an ack from gateway
+[Sun Oct 23 23:30:49.947 2016] This is an ack from gateway
+[Sun Oct 23 23:30:49.963 2016] This is an ack from gateway
+[Sun Oct 23 23:30:54.953 2016] This is an ack from gateway
+[Sun Oct 23 23:30:54.984 2016] This is an ack from gateway
+[Sun Oct 23 23:31:00.000 2016] This is an ack from gateway
+[Sun Oct 23 23:31:04.976 2016] This is an ack from gateway
+[Sun Oct 23 23:31:05.012 2016] This is an ack from gateway
+[Sun Oct 23 23:31:09.985 2016] This is an ack from gateway
+[Sun Oct 23 23:31:10.015 2016] This is an ack from gateway
+[Sun Oct 23 23:31:15.001 2016] This is an ack from gateway
+[Sun Oct 23 23:31:15.033 2016] This is an ack from gateway
+[Sun Oct 23 23:31:20.053 2016] This is an ack from gateway
+[Sun Oct 23 23:31:25.051 2016] This is an ack from gateway
+[Sun Oct 23 23:31:35.082 2016] This is an ack from gateway
+[Sun Oct 23 23:31:40.096 2016] This is an ack from gateway
+[Sun Oct 23 23:31:45.060 2016] This is an ack from gateway
+[Sun Oct 23 23:31:50.070 2016] This is an ack from gateway
+[Sun Oct 23 23:31:50.086 2016] This is an ack from gateway
+[Sun Oct 23 23:31:55.122 2016] This is an ack from gateway
+[Sun Oct 23 23:31:55.122 2016] This is an ack from gateway
+[Sun Oct 23 23:32:00.083 2016] This is an ack from gateway
+[Sun Oct 23 23:32:00.125 2016] This is an ack from gateway
+[Sun Oct 23 23:32:05.137 2016] This is an ack from gateway
+[Sun Oct 23 23:32:05.153 2016] This is an ack from gateway
+[Sun Oct 23 23:32:10.130 2016] This is an ack from gateway
+[Sun Oct 23 23:32:10.146 2016] This is an ack from gateway
+[Sun Oct 23 23:32:15.167 2016] This is an ack from gateway
+[Sun Oct 23 23:32:20.140 2016] This is an ack from gateway
+[Sun Oct 23 23:32:20.171 2016] This is an ack from gateway
+[Sun Oct 23 23:32:25.185 2016] This is an ack from gateway
+[Sun Oct 23 23:32:30.139 2016] This is an ack from gateway
+[Sun Oct 23 23:32:30.171 2016] This is an ack from gateway
+[Sun Oct 23 23:32:35.212 2016] This is an ack from gateway
+[Sun Oct 23 23:32:40.189 2016] This is an ack from gateway
+[Sun Oct 23 23:32:40.204 2016] This is an ack from gateway
+[Sun Oct 23 23:32:45.194 2016] This is an ack from gateway
+[Sun Oct 23 23:32:45.229 2016] This is an ack from gateway
+[Sun Oct 23 23:32:50.243 2016] This is an ack from gateway
+[Sun Oct 23 23:32:55.234 2016] This is an ack from gateway
+[Sun Oct 23 23:32:55.265 2016] This is an ack from gateway
+[Sun Oct 23 23:33:00.273 2016] This is an ack from gateway
+[Sun Oct 23 23:33:05.276 2016] This is an ack from gateway
+[Sun Oct 23 23:33:10.247 2016] This is an ack from gateway
+[Sun Oct 23 23:33:10.263 2016] This is an ack from gateway
+[Sun Oct 23 23:33:15.255 2016] This is an ack from gateway
+[Sun Oct 23 23:33:20.288 2016] This is an ack from gateway
+[Sun Oct 23 23:33:20.321 2016] This is an ack from gateway
+[Sun Oct 23 23:33:25.299 2016] This is an ack from gateway
+[Sun Oct 23 23:33:30.294 2016] This is an ack from gateway
+[Sun Oct 23 23:33:30.310 2016] This is an ack from gateway
+[Sun Oct 23 23:33:35.338 2016] This is an ack from gateway
+[Sun Oct 23 23:33:35.385 2016] This is an ack from gateway
+[Sun Oct 23 23:33:40.354 2016] This is an ack from gateway
+[Sun Oct 23 23:33:45.368 2016] This is an ack from gateway
+[Sun Oct 23 23:33:50.324 2016] This is an ack from gateway
+[Sun Oct 23 23:33:50.340 2016] This is an ack from gateway
+[Sun Oct 23 23:33:55.329 2016] This is an ack from gateway
+[Sun Oct 23 23:33:55.351 2016] This is an ack from gateway
+[Sun Oct 23 23:34:05.401 2016] This is an ack from gateway
+[Sun Oct 23 23:34:10.415 2016] This is an ack from gateway
+[Sun Oct 23 23:34:15.421 2016] This is an ack from gateway
+[Sun Oct 23 23:34:20.390 2016] This is an ack from gateway
+[Sun Oct 23 23:34:20.421 2016] This is an ack from gateway
+[Sun Oct 23 23:34:25.445 2016] This is an ack from gateway
+[Sun Oct 23 23:34:35.431 2016] This is an ack from gateway
+[Sun Oct 23 23:34:35.453 2016] This is an ack from gateway
+[Sun Oct 23 23:34:40.470 2016] This is an ack from gateway
+[Sun Oct 23 23:34:45.444 2016] This is an ack from gateway
+[Sun Oct 23 23:34:45.460 2016] This is an ack from gateway
+[Sun Oct 23 23:34:50.447 2016] This is an ack from gateway
+[Sun Oct 23 23:34:50.483 2016] This is an ack from gateway
+[Sun Oct 23 23:34:55.447 2016] This is an ack from gateway
+[Sun Oct 23 23:34:55.500 2016] This is an ack from gateway
+[Sun Oct 23 23:35:00.469 2016] This is an ack from gateway
+[Sun Oct 23 23:35:00.500 2016] This is an ack from gateway
+[Sun Oct 23 23:35:05.480 2016] This is an ack from gateway
+[Sun Oct 23 23:35:05.513 2016] This is an ack from gateway
+[Sun Oct 23 23:35:10.534 2016] This is an ack from gateway
+[Sun Oct 23 23:35:15.530 2016] This is an ack from gateway
+[Sun Oct 23 23:35:15.561 2016] This is an ack from gateway
+[Sun Oct 23 23:35:20.559 2016] This is an ack from gateway
+[Sun Oct 23 23:35:25.523 2016] This is an ack from gateway
+[Sun Oct 23 23:35:25.554 2016] This is an ack from gateway
+[Sun Oct 23 23:35:30.536 2016] This is an ack from gateway
+[Sun Oct 23 23:35:30.572 2016] This is an ack from gateway
+[Sun Oct 23 23:35:35.585 2016] This is an ack from gateway
+[Sun Oct 23 23:35:35.600 2016] This is an ack from gateway
+[Sun Oct 23 23:35:40.604 2016] This is an ack from gateway
+[Sun Oct 23 23:35:45.560 2016] This is an ack from gateway
+[Sun Oct 23 23:35:45.591 2016] This is an ack from gateway
+[Sun Oct 23 23:35:50.588 2016] This is an ack from gateway
+[Sun Oct 23 23:35:50.603 2016] This is an ack from gateway
+[Sun Oct 23 23:35:55.622 2016] This is an ack from gateway
+[Sun Oct 23 23:35:55.645 2016] This is an ack from gateway
+[Sun Oct 23 23:36:00.622 2016] This is an ack from gateway
+[Sun Oct 23 23:36:00.622 2016] This is an ack from gateway
+[Sun Oct 23 23:36:10.668 2016] This is an ack from gateway
+[Sun Oct 23 23:36:15.663 2016] This is an ack from gateway
+[Sun Oct 23 23:36:20.688 2016] This is an ack from gateway
+[Sun Oct 23 23:36:25.647 2016] This is an ack from gateway
+[Sun Oct 23 23:36:25.678 2016] This is an ack from gateway
+[Sun Oct 23 23:36:30.666 2016] This is an ack from gateway
+[Sun Oct 23 23:36:30.697 2016] This is an ack from gateway
+[Sun Oct 23 23:36:35.709 2016] This is an ack from gateway
+[Sun Oct 23 23:36:40.733 2016] This is an ack from gateway
+[Sun Oct 23 23:36:45.742 2016] This is an ack from gateway
+[Sun Oct 23 23:36:50.762 2016] This is an ack from gateway
+[Sun Oct 23 23:36:55.752 2016] This is an ack from gateway
+[Sun Oct 23 23:37:00.755 2016] This is an ack from gateway
+[Sun Oct 23 23:37:05.738 2016] This is an ack from gateway
+[Sun Oct 23 23:37:05.754 2016] This is an ack from gateway
+[Sun Oct 23 23:37:10.817 2016] This is an ack from gateway
+[Sun Oct 23 23:37:15.773 2016] This is an ack from gateway
+[Sun Oct 23 23:37:15.836 2016] This is an ack from gateway
+[Sun Oct 23 23:37:20.779 2016] This is an ack from gateway
+[Sun Oct 23 23:37:20.794 2016] This is an ack from gateway
+[Sun Oct 23 23:37:25.776 2016] This is an ack from gateway
+[Sun Oct 23 23:37:25.813 2016] This is an ack from gateway
+[Sun Oct 23 23:37:35.831 2016] This is an ack from gateway
+[Sun Oct 23 23:37:40.817 2016] This is an ack from gateway
+[Sun Oct 23 23:37:40.848 2016] This is an ack from gateway
+[Sun Oct 23 23:37:45.822 2016] This is an ack from gateway
+[Sun Oct 23 23:37:45.838 2016] This is an ack from gateway
+[Sun Oct 23 23:37:50.831 2016] This is an ack from gateway
+[Sun Oct 23 23:37:55.829 2016] This is an ack from gateway
+[Sun Oct 23 23:37:55.861 2016] This is an ack from gateway
+[Sun Oct 23 23:38:00.855 2016] This is an ack from gateway
+[Sun Oct 23 23:38:00.892 2016] This is an ack from gateway
+[Sun Oct 23 23:38:05.880 2016] This is an ack from gateway
+[Sun Oct 23 23:38:05.896 2016] This is an ack from gateway
+[Sun Oct 23 23:38:10.882 2016] This is an ack from gateway
+[Sun Oct 23 23:38:10.898 2016] This is an ack from gateway
+[Sun Oct 23 23:38:15.886 2016] This is an ack from gateway
+[Sun Oct 23 23:38:15.918 2016] This is an ack from gateway
+[Sun Oct 23 23:38:20.902 2016] This is an ack from gateway
+[Sun Oct 23 23:38:20.921 2016] This is an ack from gateway
+[Sun Oct 23 23:38:25.915 2016] This is an ack from gateway
+[Sun Oct 23 23:38:30.964 2016] This is an ack from gateway
+[Sun Oct 23 23:38:35.961 2016] This is an ack from gateway
+[Sun Oct 23 23:38:35.977 2016] This is an ack from gateway
+[Sun Oct 23 23:38:41.001 2016] This is an ack from gateway
+[Sun Oct 23 23:38:45.997 2016] This is an ack from gateway
+[Sun Oct 23 23:38:50.997 2016] This is an ack from gateway
+[Sun Oct 23 23:38:56.017 2016] This is an ack from gateway
+[Sun Oct 23 23:39:01.043 2016] This is an ack from gateway
+[Sun Oct 23 23:39:06.036 2016] This is an ack from gateway
+[Sun Oct 23 23:39:11.000 2016] This is an ack from gateway
+[Sun Oct 23 23:39:11.015 2016] This is an ack from gateway
+[Sun Oct 23 23:39:16.004 2016] This is an ack from gateway
+[Sun Oct 23 23:39:16.035 2016] This is an ack from gateway
+[Sun Oct 23 23:39:21.079 2016] This is an ack from gateway
+[Sun Oct 23 23:39:26.023 2016] This is an ack from gateway
+[Sun Oct 23 23:39:31.065 2016] This is an ack from gateway
+[Sun Oct 23 23:39:36.046 2016] This is an ack from gateway
+[Sun Oct 23 23:39:41.090 2016] This is an ack from gateway
+[Sun Oct 23 23:39:41.096 2016] This is an ack from gateway
+[Sun Oct 23 23:39:46.079 2016] This is an ack from gateway
+[Sun Oct 23 23:39:46.111 2016] This is an ack from gateway
+[Sun Oct 23 23:39:51.103 2016] This is an ack from gateway
+[Sun Oct 23 23:39:51.119 2016] This is an ack from gateway
+[Sun Oct 23 23:39:56.155 2016] This is an ack from gateway
+[Sun Oct 23 23:40:01.102 2016] This is an ack from gateway
+[Sun Oct 23 23:40:01.137 2016] This is an ack from gateway
+[Sun Oct 23 23:40:06.122 2016] This is an ack from gateway
+[Sun Oct 23 23:40:16.125 2016] This is an ack from gateway
+[Sun Oct 23 23:40:16.173 2016] This is an ack from gateway
+[Sun Oct 23 23:40:21.195 2016] This is an ack from gateway
+[Sun Oct 23 23:40:26.190 2016] This is an ack from gateway
+[Sun Oct 23 23:40:31.176 2016] This is an ack from gateway
+[Sun Oct 23 23:40:31.207 2016] This is an ack from gateway
+[Sun Oct 23 23:40:36.186 2016] This is an ack from gateway
+[Sun Oct 23 23:40:36.201 2016] This is an ack from gateway
+[Sun Oct 23 23:40:41.195 2016] This is an ack from gateway
+[Sun Oct 23 23:40:41.210 2016] This is an ack from gateway
+[Sun Oct 23 23:40:46.252 2016] This is an ack from gateway
+[Sun Oct 23 23:40:51.250 2016] This is an ack from gateway
+[Sun Oct 23 23:40:56.272 2016] This is an ack from gateway
+[Sun Oct 23 23:41:01.271 2016] This is an ack from gateway
+[Sun Oct 23 23:41:06.324 2016] This is an ack from gateway
+[Sun Oct 23 23:41:11.279 2016] This is an ack from gateway
+[Sun Oct 23 23:41:11.310 2016] This is an ack from gateway
+[Sun Oct 23 23:41:16.262 2016] This is an ack from gateway
+[Sun Oct 23 23:41:16.278 2016] This is an ack from gateway
+[Sun Oct 23 23:41:21.275 2016] This is an ack from gateway
+[Sun Oct 23 23:41:21.291 2016] This is an ack from gateway
+[Sun Oct 23 23:41:26.267 2016] This is an ack from gateway
+[Sun Oct 23 23:41:26.311 2016] This is an ack from gateway
+[Sun Oct 23 23:41:31.304 2016] This is an ack from gateway
+[Sun Oct 23 23:41:31.311 2016] This is an ack from gateway
+[Sun Oct 23 23:41:36.373 2016] This is an ack from gateway
+[Sun Oct 23 23:41:41.331 2016] This is an ack from gateway
+[Sun Oct 23 23:41:41.331 2016] This is an ack from gateway
+[Sun Oct 23 23:41:46.370 2016] This is an ack from gateway
+[Sun Oct 23 23:41:51.334 2016] This is an ack from gateway
+[Sun Oct 23 23:41:51.385 2016] This is an ack from gateway
+[Sun Oct 23 23:42:01.405 2016] This is an ack from gateway
+[Sun Oct 23 23:42:06.365 2016] This is an ack from gateway
+[Sun Oct 23 23:42:06.387 2016] This is an ack from gateway
+[Sun Oct 23 23:42:11.386 2016] This is an ack from gateway
+[Sun Oct 23 23:42:11.417 2016] This is an ack from gateway
+[Sun Oct 23 23:42:16.436 2016] This is an ack from gateway
+[Sun Oct 23 23:42:21.403 2016] This is an ack from gateway
+[Sun Oct 23 23:42:21.434 2016] This is an ack from gateway
+[Sun Oct 23 23:42:26.413 2016] This is an ack from gateway
+[Sun Oct 23 23:42:26.444 2016] This is an ack from gateway
+[Sun Oct 23 23:42:31.471 2016] This is an ack from gateway
+[Sun Oct 23 23:42:36.500 2016] This is an ack from gateway
+[Sun Oct 23 23:42:41.432 2016] This is an ack from gateway
+[Sun Oct 23 23:42:41.478 2016] This is an ack from gateway
+[Sun Oct 23 23:42:46.488 2016] This is an ack from gateway
+[Sun Oct 23 23:42:51.472 2016] This is an ack from gateway
+[Sun Oct 23 23:42:51.487 2016] This is an ack from gateway
+[Sun Oct 23 23:42:56.466 2016] This is an ack from gateway
+[Sun Oct 23 23:42:56.497 2016] This is an ack from gateway
+[Sun Oct 23 23:43:01.507 2016] This is an ack from gateway
+[Sun Oct 23 23:43:01.537 2016] This is an ack from gateway
+[Sun Oct 23 23:43:06.495 2016] This is an ack from gateway
+[Sun Oct 23 23:43:06.511 2016] This is an ack from gateway
+[Sun Oct 23 23:43:11.548 2016] This is an ack from gateway
+[Sun Oct 23 23:43:11.564 2016] This is an ack from gateway
+[Sun Oct 23 23:43:16.515 2016] This is an ack from gateway
+[Sun Oct 23 23:43:16.531 2016] This is an ack from gateway
+[Sun Oct 23 23:43:21.542 2016] This is an ack from gateway
+[Sun Oct 23 23:43:21.558 2016] This is an ack from gateway
+[Sun Oct 23 23:43:26.577 2016] This is an ack from gateway
+[Sun Oct 23 23:43:31.601 2016] This is an ack from gateway
+[Sun Oct 23 23:43:36.612 2016] This is an ack from gateway
+[Sun Oct 23 23:43:41.574 2016] This is an ack from gateway
+[Sun Oct 23 23:43:41.590 2016] This is an ack from gateway
+[Sun Oct 23 23:43:51.601 2016] This is an ack from gateway
+[Sun Oct 23 23:43:51.616 2016] This is an ack from gateway
+[Sun Oct 23 23:43:56.660 2016] This is an ack from gateway
+[Sun Oct 23 23:44:01.610 2016] This is an ack from gateway
+[Sun Oct 23 23:44:01.642 2016] This is an ack from gateway
+[Sun Oct 23 23:44:06.628 2016] This is an ack from gateway
+[Sun Oct 23 23:44:06.643 2016] This is an ack from gateway
+[Sun Oct 23 23:44:11.637 2016] This is an ack from gateway
+[Sun Oct 23 23:44:11.670 2016] This is an ack from gateway
+[Sun Oct 23 23:44:16.658 2016] This is an ack from gateway
+[Sun Oct 23 23:44:16.674 2016] This is an ack from gateway
+[Sun Oct 23 23:44:21.660 2016] This is an ack from gateway
+[Sun Oct 23 23:44:21.681 2016] This is an ack from gateway
+[Sun Oct 23 23:44:26.681 2016] This is an ack from gateway
+[Sun Oct 23 23:44:26.696 2016] This is an ack from gateway
+[Sun Oct 23 23:44:31.738 2016] This is an ack from gateway
+[Sun Oct 23 23:44:36.710 2016] This is an ack from gateway
+[Sun Oct 23 23:44:36.726 2016] This is an ack from gateway
+[Sun Oct 23 23:44:41.714 2016] This is an ack from gateway
+[Sun Oct 23 23:44:41.730 2016] This is an ack from gateway
+[Sun Oct 23 23:44:46.741 2016] This is an ack from gateway
+[Sun Oct 23 23:44:51.719 2016] This is an ack from gateway
+[Sun Oct 23 23:44:51.734 2016] This is an ack from gateway
+[Sun Oct 23 23:44:56.762 2016] This is an ack from gateway
+[Sun Oct 23 23:45:01.789 2016] This is an ack from gateway
+[Sun Oct 23 23:45:06.764 2016] This is an ack from gateway
+[Sun Oct 23 23:45:11.763 2016] This is an ack from gateway
+[Sun Oct 23 23:45:11.779 2016] This is an ack from gateway
+[Sun Oct 23 23:45:16.772 2016] This is an ack from gateway
+[Sun Oct 23 23:45:16.805 2016] This is an ack from gateway
+[Sun Oct 23 23:45:21.794 2016] This is an ack from gateway
+[Sun Oct 23 23:45:21.810 2016] This is an ack from gateway
+[Sun Oct 23 23:45:26.804 2016] This is an ack from gateway
+[Sun Oct 23 23:45:26.836 2016] This is an ack from gateway
+[Sun Oct 23 23:45:31.802 2016] This is an ack from gateway
+[Sun Oct 23 23:45:31.833 2016] This is an ack from gateway
+[Sun Oct 23 23:45:36.863 2016] This is an ack from gateway
+[Sun Oct 23 23:45:36.863 2016] This is an ack from gateway
+[Sun Oct 23 23:45:41.827 2016] This is an ack from gateway
+[Sun Oct 23 23:45:41.843 2016] This is an ack from gateway
+[Sun Oct 23 23:45:46.884 2016] This is an ack from gateway
+[Sun Oct 23 23:45:51.842 2016] This is an ack from gateway
+[Sun Oct 23 23:45:51.869 2016] This is an ack from gateway
+[Sun Oct 23 23:45:56.875 2016] This is an ack from gateway
+[Sun Oct 23 23:45:56.890 2016] This is an ack from gateway
+[Sun Oct 23 23:46:01.864 2016] This is an ack from gateway
+[Sun Oct 23 23:46:01.895 2016] This is an ack from gateway
+[Sun Oct 23 23:46:06.903 2016] This is an ack from gateway
+[Sun Oct 23 23:46:11.884 2016] This is an ack from gateway
+[Sun Oct 23 23:46:11.916 2016] This is an ack from gateway
+[Sun Oct 23 23:46:16.916 2016] This is an ack from gateway
+[Sun Oct 23 23:46:16.916 2016] This is an ack from gateway
+[Sun Oct 23 23:46:26.955 2016] This is an ack from gateway
+[Sun Oct 23 23:46:31.941 2016] This is an ack from gateway
+[Sun Oct 23 23:46:31.956 2016] This is an ack from gateway
+[Sun Oct 23 23:46:36.931 2016] This is an ack from gateway
+[Sun Oct 23 23:46:36.978 2016] This is an ack from gateway
+[Sun Oct 23 23:46:42.014 2016] This is an ack from gateway
+[Sun Oct 23 23:46:46.968 2016] This is an ack from gateway
+[Sun Oct 23 23:46:46.984 2016] This is an ack from gateway
+[Sun Oct 23 23:46:56.986 2016] This is an ack from gateway
+[Sun Oct 23 23:46:57.017 2016] This is an ack from gateway
+[Sun Oct 23 23:47:02.049 2016] This is an ack from gateway
+[Sun Oct 23 23:47:06.998 2016] This is an ack from gateway
+[Sun Oct 23 23:47:07.029 2016] This is an ack from gateway
+[Sun Oct 23 23:47:12.012 2016] This is an ack from gateway
+[Sun Oct 23 23:47:12.033 2016] This is an ack from gateway
+[Sun Oct 23 23:47:17.073 2016] This is an ack from gateway
+[Sun Oct 23 23:47:22.087 2016] This is an ack from gateway
+[Sun Oct 23 23:47:27.087 2016] This is an ack from gateway
+[Sun Oct 23 23:47:32.113 2016] This is an ack from gateway
+[Sun Oct 23 23:47:37.074 2016] This is an ack from gateway
+[Sun Oct 23 23:47:37.106 2016] This is an ack from gateway
+[Sun Oct 23 23:47:42.094 2016] This is an ack from gateway
+[Sun Oct 23 23:47:42.110 2016] This is an ack from gateway
+[Sun Oct 23 23:47:47.083 2016] This is an ack from gateway
+[Sun Oct 23 23:47:47.114 2016] This is an ack from gateway
+[Sun Oct 23 23:47:52.098 2016] This is an ack from gateway
+[Sun Oct 23 23:47:52.119 2016] This is an ack from gateway
+[Sun Oct 23 23:47:57.128 2016] This is an ack from gateway
+[Sun Oct 23 23:47:57.144 2016] This is an ack from gateway
+[Sun Oct 23 23:48:02.127 2016] This is an ack from gateway
+[Sun Oct 23 23:48:02.164 2016] This is an ack from gateway
+[Sun Oct 23 23:48:07.139 2016] This is an ack from gateway
+[Sun Oct 23 23:48:07.161 2016] This is an ack from gateway
+[Sun Oct 23 23:48:12.139 2016] This is an ack from gateway
+[Sun Oct 23 23:48:12.174 2016] This is an ack from gateway
+[Sun Oct 23 23:48:17.205 2016] This is an ack from gateway
+[Sun Oct 23 23:48:22.195 2016] This is an ack from gateway
+[Sun Oct 23 23:48:22.214 2016] This is an ack from gateway
+[Sun Oct 23 23:48:27.194 2016] This is an ack from gateway
+[Sun Oct 23 23:48:27.194 2016] This is an ack from gateway
+[Sun Oct 23 23:48:32.183 2016] This is an ack from gateway
+[Sun Oct 23 23:48:32.215 2016] This is an ack from gateway
+[Sun Oct 23 23:48:42.201 2016] This is an ack from gateway
+[Sun Oct 23 23:48:42.232 2016] This is an ack from gateway
+[Sun Oct 23 23:48:52.265 2016] This is an ack from gateway
+[Sun Oct 23 23:48:57.286 2016] This is an ack from gateway
+[Sun Oct 23 23:49:02.289 2016] This is an ack from gateway
+[Sun Oct 23 23:49:07.297 2016] This is an ack from gateway
+[Sun Oct 23 23:49:07.319 2016] This is an ack from gateway
+[Sun Oct 23 23:49:12.267 2016] This is an ack from gateway
+[Sun Oct 23 23:49:12.289 2016] This is an ack from gateway
+[Sun Oct 23 23:49:17.328 2016] This is an ack from gateway
+[Sun Oct 23 23:49:17.328 2016] This is an ack from gateway
+[Sun Oct 23 23:49:22.341 2016] This is an ack from gateway
+[Sun Oct 23 23:49:27.310 2016] This is an ack from gateway
+[Sun Oct 23 23:49:27.325 2016] This is an ack from gateway
+[Sun Oct 23 23:49:32.328 2016] This is an ack from gateway
+[Sun Oct 23 23:49:32.328 2016] This is an ack from gateway
+[Sun Oct 23 23:49:37.370 2016] This is an ack from gateway
+[Sun Oct 23 23:49:42.338 2016] This is an ack from gateway
+[Sun Oct 23 23:49:42.369 2016] This is an ack from gateway
+[Sun Oct 23 23:49:47.382 2016] This is an ack from gateway
+[Sun Oct 23 23:49:52.360 2016] This is an ack from gateway
+[Sun Oct 23 23:49:52.385 2016] This is an ack from gateway
+[Sun Oct 23 23:49:57.416 2016] This is an ack from gateway
+[Sun Oct 23 23:50:02.411 2016] This is an ack from gateway
+[Sun Oct 23 23:50:02.426 2016] This is an ack from gateway
+[Sun Oct 23 23:50:07.406 2016] This is an ack from gateway
+[Sun Oct 23 23:50:07.409 2016] This is an ack from gateway
+[Sun Oct 23 23:50:12.404 2016] This is an ack from gateway
+[Sun Oct 23 23:50:12.431 2016] This is an ack from gateway
+[Sun Oct 23 23:50:17.456 2016] This is an ack from gateway
+[Sun Oct 23 23:50:22.412 2016] This is an ack from gateway
+[Sun Oct 23 23:50:22.449 2016] This is an ack from gateway
+[Sun Oct 23 23:50:32.446 2016] This is an ack from gateway
+[Sun Oct 23 23:50:32.462 2016] This is an ack from gateway
+[Sun Oct 23 23:50:37.516 2016] This is an ack from gateway
+[Sun Oct 23 23:50:47.530 2016] This is an ack from gateway
+[Sun Oct 23 23:50:52.483 2016] This is an ack from gateway
+[Sun Oct 23 23:50:52.499 2016] This is an ack from gateway
+[Sun Oct 23 23:50:57.549 2016] This is an ack from gateway
+[Sun Oct 23 23:51:02.563 2016] This is an ack from gateway
+[Sun Oct 23 23:51:07.562 2016] This is an ack from gateway
+[Sun Oct 23 23:51:12.540 2016] This is an ack from gateway
+[Sun Oct 23 23:51:12.556 2016] This is an ack from gateway
+[Sun Oct 23 23:51:17.578 2016] This is an ack from gateway
+[Sun Oct 23 23:51:17.578 2016] This is an ack from gateway
+[Sun Oct 23 23:51:22.539 2016] This is an ack from gateway
+[Sun Oct 23 23:51:22.577 2016] This is an ack from gateway
+[Sun Oct 23 23:51:27.569 2016] This is an ack from gateway
+[Sun Oct 23 23:51:27.585 2016] This is an ack from gateway
+[Sun Oct 23 23:51:32.592 2016] This is an ack from gateway
+[Sun Oct 23 23:51:32.592 2016] This is an ack from gateway
+[Sun Oct 23 23:51:37.610 2016] This is an ack from gateway
+[Sun Oct 23 23:51:37.642 2016] This is an ack from gateway
+[Sun Oct 23 23:51:42.599 2016] This is an ack from gateway
+[Sun Oct 23 23:51:42.614 2016] This is an ack from gateway
+[Sun Oct 23 23:51:47.600 2016] This is an ack from gateway
+[Sun Oct 23 23:51:47.637 2016] This is an ack from gateway
+[Sun Oct 23 23:51:52.668 2016] This is an ack from gateway
+[Sun Oct 23 23:51:57.625 2016] This is an ack from gateway
+[Sun Oct 23 23:51:57.641 2016] This is an ack from gateway
+[Sun Oct 23 23:52:02.671 2016] This is an ack from gateway
+[Sun Oct 23 23:52:07.678 2016] This is an ack from gateway
+[Sun Oct 23 23:52:07.700 2016] This is an ack from gateway
+[Sun Oct 23 23:52:12.704 2016] This is an ack from gateway
+[Sun Oct 23 23:52:32.688 2016] This is an ack from gateway
+[Sun Oct 23 23:52:32.719 2016] This is an ack from gateway
+[Sun Oct 23 23:52:37.713 2016] This is an ack from gateway
+[Sun Oct 23 23:52:37.737 2016] This is an ack from gateway
+[Sun Oct 23 23:52:42.736 2016] This is an ack from gateway
+[Sun Oct 23 23:52:42.767 2016] This is an ack from gateway
+[Sun Oct 23 23:52:52.737 2016] This is an ack from gateway
+[Sun Oct 23 23:52:52.768 2016] This is an ack from gateway
+[Sun Oct 23 23:53:02.753 2016] This is an ack from gateway
+[Sun Oct 23 23:53:07.754 2016] This is an ack from gateway
+[Sun Oct 23 23:53:07.803 2016] This is an ack from gateway
+[Sun Oct 23 23:53:12.761 2016] This is an ack from gateway
+[Sun Oct 23 23:53:12.808 2016] This is an ack from gateway
+[Sun Oct 23 23:53:17.802 2016] This is an ack from gateway
+[Sun Oct 23 23:53:22.786 2016] This is an ack from gateway
+[Sun Oct 23 23:53:22.818 2016] This is an ack from gateway
+[Sun Oct 23 23:53:27.860 2016] This is an ack from gateway
+[Sun Oct 23 23:53:32.821 2016] This is an ack from gateway
+[Sun Oct 23 23:53:32.839 2016] This is an ack from gateway
+[Sun Oct 23 23:53:42.854 2016] This is an ack from gateway
+[Sun Oct 23 23:53:42.870 2016] This is an ack from gateway
+[Sun Oct 23 23:53:47.909 2016] This is an ack from gateway
+[Sun Oct 23 23:53:52.862 2016] This is an ack from gateway
+[Sun Oct 23 23:53:52.878 2016] This is an ack from gateway
+[Sun Oct 23 23:53:57.873 2016] This is an ack from gateway
+[Sun Oct 23 23:53:57.904 2016] This is an ack from gateway
+[Sun Oct 23 23:54:02.912 2016] This is an ack from gateway
+[Sun Oct 23 23:54:02.967 2016] This is an ack from gateway
+[Sun Oct 23 23:54:07.919 2016] This is an ack from gateway
+[Sun Oct 23 23:54:07.936 2016] This is an ack from gateway
+[Sun Oct 23 23:54:12.944 2016] This is an ack from gateway
+[Sun Oct 23 23:54:17.905 2016] This is an ack from gateway
+[Sun Oct 23 23:54:17.943 2016] This is an ack from gateway
+[Sun Oct 23 23:54:22.925 2016] This is an ack from gateway
+[Sun Oct 23 23:54:22.941 2016] This is an ack from gateway
+[Sun Oct 23 23:54:27.997 2016] This is an ack from gateway
+[Sun Oct 23 23:54:32.958 2016] This is an ack from gateway
+[Sun Oct 23 23:54:32.971 2016] This is an ack from gateway
+[Sun Oct 23 23:54:37.958 2016] This is an ack from gateway
+[Sun Oct 23 23:54:37.974 2016] This is an ack from gateway
+[Sun Oct 23 23:54:42.982 2016] This is an ack from gateway
+[Sun Oct 23 23:54:43.013 2016] This is an ack from gateway
+[Sun Oct 23 23:54:47.983 2016] This is an ack from gateway
+[Sun Oct 23 23:54:48.014 2016] This is an ack from gateway
+[Sun Oct 23 23:54:52.988 2016] This is an ack from gateway
+[Sun Oct 23 23:54:53.019 2016] This is an ack from gateway
+[Sun Oct 23 23:54:58.041 2016] This is an ack from gateway
+[Sun Oct 23 23:55:03.004 2016] This is an ack from gateway
+[Sun Oct 23 23:55:03.041 2016] This is an ack from gateway
+[Sun Oct 23 23:55:08.054 2016] This is an ack from gateway
+[Sun Oct 23 23:55:08.054 2016] This is an ack from gateway
+[Sun Oct 23 23:55:13.038 2016] This is an ack from gateway
+[Sun Oct 23 23:55:13.069 2016] This is an ack from gateway
+[Sun Oct 23 23:55:18.096 2016] This is an ack from gateway
+[Sun Oct 23 23:55:23.068 2016] This is an ack from gateway
+[Sun Oct 23 23:55:23.075 2016] This is an ack from gateway
+[Sun Oct 23 23:55:28.077 2016] This is an ack from gateway
+[Sun Oct 23 23:55:28.093 2016] This is an ack from gateway
+[Sun Oct 23 23:55:33.111 2016] This is an ack from gateway
+[Sun Oct 23 23:55:38.087 2016] This is an ack from gateway
+[Sun Oct 23 23:55:38.109 2016] This is an ack from gateway
+[Sun Oct 23 23:55:43.107 2016] This is an ack from gateway
+[Sun Oct 23 23:55:48.162 2016] This is an ack from gateway
+[Sun Oct 23 23:55:53.119 2016] This is an ack from gateway
+[Sun Oct 23 23:55:53.151 2016] This is an ack from gateway
+[Sun Oct 23 23:55:58.116 2016] This is an ack from gateway
+[Sun Oct 23 23:55:58.162 2016] This is an ack from gateway
+[Sun Oct 23 23:56:03.183 2016] This is an ack from gateway
+[Sun Oct 23 23:56:08.214 2016] This is an ack from gateway
+[Sun Oct 23 23:56:13.223 2016] This is an ack from gateway
+[Sun Oct 23 23:56:18.200 2016] This is an ack from gateway
+[Sun Oct 23 23:56:23.232 2016] This is an ack from gateway
+[Sun Oct 23 23:56:28.199 2016] This is an ack from gateway
+[Sun Oct 23 23:56:28.215 2016] This is an ack from gateway
+[Sun Oct 23 23:56:33.201 2016] This is an ack from gateway
+[Sun Oct 23 23:56:38.201 2016] This is an ack from gateway
+[Sun Oct 23 23:56:38.232 2016] This is an ack from gateway
+[Sun Oct 23 23:56:43.235 2016] This is an ack from gateway
+[Sun Oct 23 23:56:53.282 2016] This is an ack from gateway
+[Sun Oct 23 23:56:58.253 2016] This is an ack from gateway
+[Sun Oct 23 23:56:58.291 2016] This is an ack from gateway
+[Sun Oct 23 23:57:03.284 2016] This is an ack from gateway
+[Sun Oct 23 23:57:03.366 2016] This is an ack from gateway
+[Sun Oct 23 23:57:08.328 2016] This is an ack from gateway
+[Sun Oct 23 23:57:13.292 2016] This is an ack from gateway
+[Sun Oct 23 23:57:13.324 2016] This is an ack from gateway
+[Sun Oct 23 23:57:18.349 2016] This is an ack from gateway
+[Sun Oct 23 23:57:23.314 2016] This is an ack from gateway
+[Sun Oct 23 23:57:23.330 2016] This is an ack from gateway
+[Sun Oct 23 23:57:33.340 2016] This is an ack from gateway
+[Sun Oct 23 23:57:33.371 2016] This is an ack from gateway
+[Sun Oct 23 23:57:38.412 2016] This is an ack from gateway
+[Sun Oct 23 23:57:43.389 2016] This is an ack from gateway
+[Sun Oct 23 23:57:48.371 2016] This is an ack from gateway
+[Sun Oct 23 23:57:48.379 2016] This is an ack from gateway
+[Sun Oct 23 23:57:53.385 2016] This is an ack from gateway
+[Sun Oct 23 23:57:53.401 2016] This is an ack from gateway
+[Sun Oct 23 23:57:58.414 2016] This is an ack from gateway
+[Sun Oct 23 23:57:58.452 2016] This is an ack from gateway
+[Sun Oct 23 23:58:03.397 2016] This is an ack from gateway
+[Sun Oct 23 23:58:03.428 2016] This is an ack from gateway
+[Sun Oct 23 23:58:08.449 2016] This is an ack from gateway
+[Sun Oct 23 23:58:13.468 2016] This is an ack from gateway
+[Sun Oct 23 23:58:18.473 2016] This is an ack from gateway
+[Sun Oct 23 23:58:23.445 2016] This is an ack from gateway
+[Sun Oct 23 23:58:23.461 2016] This is an ack from gateway
+[Sun Oct 23 23:58:33.477 2016] This is an ack from gateway
+[Sun Oct 23 23:58:33.519 2016] This is an ack from gateway
+[Sun Oct 23 23:58:38.480 2016] This is an ack from gateway
+[Sun Oct 23 23:58:38.480 2016] This is an ack from gateway
+[Sun Oct 23 23:58:43.519 2016] This is an ack from gateway
+[Sun Oct 23 23:58:48.527 2016] This is an ack from gateway
+[Sun Oct 23 23:58:53.509 2016] This is an ack from gateway
+[Sun Oct 23 23:58:53.524 2016] This is an ack from gateway
+[Sun Oct 23 23:58:58.517 2016] This is an ack from gateway
+[Sun Oct 23 23:58:58.517 2016] This is an ack from gateway
+[Sun Oct 23 23:59:08.586 2016] This is an ack from gateway
+[Sun Oct 23 23:59:13.545 2016] This is an ack from gateway
+[Sun Oct 23 23:59:13.576 2016] This is an ack from gateway
+[Sun Oct 23 23:59:18.602 2016] This is an ack from gateway
+[Sun Oct 23 23:59:23.585 2016] This is an ack from gateway
+[Sun Oct 23 23:59:23.601 2016] This is an ack from gateway
+[Sun Oct 23 23:59:28.606 2016] This is an ack from gateway
+[Sun Oct 23 23:59:28.606 2016] This is an ack from gateway
+[Sun Oct 23 23:59:33.611 2016] This is an ack from gateway
+[Sun Oct 23 23:59:38.641 2016] This is an ack from gateway
+[Sun Oct 23 23:59:43.645 2016] This is an ack from gateway
+[Sun Oct 23 23:59:43.655 2016] This is an ack from gateway
+[Sun Oct 23 23:59:48.670 2016] This is an ack from gateway
+[Sun Oct 23 23:59:53.661 2016] This is an ack from gateway
+[Sun Oct 23 23:59:58.637 2016] This is an ack from gateway
+[Mon Oct 24 00:00:03.671 2016] This is an ack from gateway
+[Mon Oct 24 00:00:03.718 2016] This is an ack from gateway
+[Mon Oct 24 00:00:13.722 2016] This is an ack from gateway
+[Mon Oct 24 00:00:18.726 2016] This is an ack from gateway
+[Mon Oct 24 00:00:23.735 2016] This is an ack from gateway
+[Mon Oct 24 00:00:28.744 2016] This is an ack from gateway
+[Mon Oct 24 00:00:33.754 2016] This is an ack from gateway
+[Mon Oct 24 00:00:38.730 2016] This is an ack from gateway
+[Mon Oct 24 00:00:38.762 2016] This is an ack from gateway
+[Mon Oct 24 00:00:43.779 2016] This is an ack from gateway
+[Mon Oct 24 00:00:43.796 2016] This is an ack from gateway
+[Mon Oct 24 00:00:48.777 2016] This is an ack from gateway
+[Mon Oct 24 00:00:53.805 2016] This is an ack from gateway
+[Mon Oct 24 00:01:03.813 2016] This is an ack from gateway
+[Mon Oct 24 00:01:03.827 2016] This is an ack from gateway
+[Mon Oct 24 00:01:08.789 2016] This is an ack from gateway
+[Mon Oct 24 00:01:08.820 2016] This is an ack from gateway
+[Mon Oct 24 00:01:13.801 2016] This is an ack from gateway
+[Mon Oct 24 00:01:13.825 2016] This is an ack from gateway
+[Mon Oct 24 00:01:18.810 2016] This is an ack from gateway
+[Mon Oct 24 00:01:18.842 2016] This is an ack from gateway
+[Mon Oct 24 00:01:23.815 2016] This is an ack from gateway
+[Mon Oct 24 00:01:23.846 2016] This is an ack from gateway
+[Mon Oct 24 00:01:28.836 2016] This is an ack from gateway
+[Mon Oct 24 00:01:28.852 2016] This is an ack from gateway
+[Mon Oct 24 00:01:38.842 2016] This is an ack from gateway
+[Mon Oct 24 00:01:38.873 2016] This is an ack from gateway
+[Mon Oct 24 00:01:43.922 2016] This is an ack from gateway
+[Mon Oct 24 00:01:48.893 2016] This is an ack from gateway
+[Mon Oct 24 00:01:48.924 2016] This is an ack from gateway
+[Mon Oct 24 00:01:53.890 2016] This is an ack from gateway
+[Mon Oct 24 00:01:53.906 2016] This is an ack from gateway
+[Mon Oct 24 00:01:58.897 2016] This is an ack from gateway
+[Mon Oct 24 00:01:58.912 2016] This is an ack from gateway
+[Mon Oct 24 00:02:03.897 2016] This is an ack from gateway
+[Mon Oct 24 00:02:03.928 2016] This is an ack from gateway
+[Mon Oct 24 00:02:08.911 2016] This is an ack from gateway
+[Mon Oct 24 00:02:08.942 2016] This is an ack from gateway
+[Mon Oct 24 00:02:13.971 2016] This is an ack from gateway
+[Mon Oct 24 00:02:28.958 2016] This is an ack from gateway
+[Mon Oct 24 00:02:28.983 2016] This is an ack from gateway
+[Mon Oct 24 00:02:33.971 2016] This is an ack from gateway
+[Mon Oct 24 00:02:33.987 2016] This is an ack from gateway
+[Mon Oct 24 00:02:38.982 2016] This is an ack from gateway
+[Mon Oct 24 00:02:38.998 2016] This is an ack from gateway
+[Mon Oct 24 00:02:44.047 2016] This is an ack from gateway
+[Mon Oct 24 00:02:49.036 2016] This is an ack from gateway
+[Mon Oct 24 00:02:54.019 2016] This is an ack from gateway
+[Mon Oct 24 00:02:54.035 2016] This is an ack from gateway
+[Mon Oct 24 00:02:59.075 2016] This is an ack from gateway
+[Mon Oct 24 00:03:04.057 2016] This is an ack from gateway
+[Mon Oct 24 00:03:04.079 2016] This is an ack from gateway
+[Mon Oct 24 00:03:09.057 2016] This is an ack from gateway
+[Mon Oct 24 00:03:14.062 2016] This is an ack from gateway
+[Mon Oct 24 00:03:14.077 2016] This is an ack from gateway
+[Mon Oct 24 00:03:19.111 2016] This is an ack from gateway
+[Mon Oct 24 00:03:24.111 2016] This is an ack from gateway
+[Mon Oct 24 00:03:29.106 2016] This is an ack from gateway
+[Mon Oct 24 00:03:34.139 2016] This is an ack from gateway
+[Mon Oct 24 00:03:44.106 2016] This is an ack from gateway
+[Mon Oct 24 00:03:44.171 2016] This is an ack from gateway
+[Mon Oct 24 00:03:49.171 2016] This is an ack from gateway
+[Mon Oct 24 00:03:54.142 2016] This is an ack from gateway
+[Mon Oct 24 00:03:54.173 2016] This is an ack from gateway
+[Mon Oct 24 00:03:59.191 2016] This is an ack from gateway
+[Mon Oct 24 00:04:04.202 2016] This is an ack from gateway
+[Mon Oct 24 00:04:09.218 2016] This is an ack from gateway
+[Mon Oct 24 00:04:14.175 2016] This is an ack from gateway
+[Mon Oct 24 00:04:14.206 2016] This is an ack from gateway
+[Mon Oct 24 00:04:19.212 2016] This is an ack from gateway
+[Mon Oct 24 00:04:19.212 2016] This is an ack from gateway
+[Mon Oct 24 00:04:24.245 2016] This is an ack from gateway
+[Mon Oct 24 00:04:29.250 2016] This is an ack from gateway
+[Mon Oct 24 00:04:34.276 2016] This is an ack from gateway
+[Mon Oct 24 00:04:39.246 2016] This is an ack from gateway
+[Mon Oct 24 00:04:39.261 2016] This is an ack from gateway
+[Mon Oct 24 00:04:44.247 2016] This is an ack from gateway
+[Mon Oct 24 00:04:44.262 2016] This is an ack from gateway
+[Mon Oct 24 00:04:49.264 2016] This is an ack from gateway
+[Mon Oct 24 00:04:49.280 2016] This is an ack from gateway
+[Mon Oct 24 00:04:54.266 2016] This is an ack from gateway
+[Mon Oct 24 00:04:54.297 2016] This is an ack from gateway
+[Mon Oct 24 00:04:59.277 2016] This is an ack from gateway
+[Mon Oct 24 00:04:59.309 2016] This is an ack from gateway
+[Mon Oct 24 00:05:04.283 2016] This is an ack from gateway
+[Mon Oct 24 00:05:04.298 2016] This is an ack from gateway
+[Mon Oct 24 00:05:09.333 2016] This is an ack from gateway
+[Mon Oct 24 00:05:14.336 2016] This is an ack from gateway
+[Mon Oct 24 00:05:19.353 2016] This is an ack from gateway
+[Mon Oct 24 00:05:24.337 2016] This is an ack from gateway
+[Mon Oct 24 00:05:24.337 2016] This is an ack from gateway
+[Mon Oct 24 00:05:29.392 2016] This is an ack from gateway
+[Mon Oct 24 00:05:34.389 2016] This is an ack from gateway
+[Mon Oct 24 00:05:39.362 2016] This is an ack from gateway
+[Mon Oct 24 00:05:44.408 2016] This is an ack from gateway
+[Mon Oct 24 00:05:49.424 2016] This is an ack from gateway
+[Mon Oct 24 00:05:49.441 2016] This is an ack from gateway
+[Mon Oct 24 00:05:54.407 2016] This is an ack from gateway
+[Mon Oct 24 00:05:54.410 2016] This is an ack from gateway
+[Mon Oct 24 00:05:59.440 2016] This is an ack from gateway
+[Mon Oct 24 00:06:04.410 2016] This is an ack from gateway
+[Mon Oct 24 00:06:04.426 2016] This is an ack from gateway
+[Mon Oct 24 00:06:09.422 2016] This is an ack from gateway
+[Mon Oct 24 00:06:09.437 2016] This is an ack from gateway
+[Mon Oct 24 00:06:14.443 2016] This is an ack from gateway
+[Mon Oct 24 00:06:14.458 2016] This is an ack from gateway
+[Mon Oct 24 00:06:19.494 2016] This is an ack from gateway
+[Mon Oct 24 00:06:24.474 2016] This is an ack from gateway
+[Mon Oct 24 00:06:24.474 2016] This is an ack from gateway
+[Mon Oct 24 00:06:29.521 2016] This is an ack from gateway
+[Mon Oct 24 00:06:34.476 2016] This is an ack from gateway
+[Mon Oct 24 00:06:34.503 2016] This is an ack from gateway
+[Mon Oct 24 00:06:39.531 2016] This is an ack from gateway
+[Mon Oct 24 00:06:39.547 2016] This is an ack from gateway
+[Mon Oct 24 00:06:44.533 2016] This is an ack from gateway
+[Mon Oct 24 00:06:44.549 2016] This is an ack from gateway
+[Mon Oct 24 00:06:49.492 2016] This is an ack from gateway
+[Mon Oct 24 00:06:49.551 2016] This is an ack from gateway
+[Mon Oct 24 00:06:59.530 2016] This is an ack from gateway
+[Mon Oct 24 00:06:59.546 2016] This is an ack from gateway
+[Mon Oct 24 00:07:04.552 2016] This is an ack from gateway
+[Mon Oct 24 00:07:04.568 2016] This is an ack from gateway
+[Mon Oct 24 00:07:09.550 2016] This is an ack from gateway
+[Mon Oct 24 00:07:09.575 2016] This is an ack from gateway
+[Mon Oct 24 00:07:14.576 2016] This is an ack from gateway
+[Mon Oct 24 00:07:14.597 2016] This is an ack from gateway
+[Mon Oct 24 00:07:19.559 2016] This is an ack from gateway
+[Mon Oct 24 00:07:19.596 2016] This is an ack from gateway
+[Mon Oct 24 00:07:24.620 2016] This is an ack from gateway
+[Mon Oct 24 00:07:24.635 2016] This is an ack from gateway
+[Mon Oct 24 00:07:29.608 2016] This is an ack from gateway
+[Mon Oct 24 00:07:29.624 2016] This is an ack from gateway
+[Mon Oct 24 00:07:34.637 2016] This is an ack from gateway
+[Mon Oct 24 00:07:34.674 2016] This is an ack from gateway
+[Mon Oct 24 00:07:39.653 2016] This is an ack from gateway
+[Mon Oct 24 00:07:44.619 2016] This is an ack from gateway
+[Mon Oct 24 00:07:44.637 2016] This is an ack from gateway
+[Mon Oct 24 00:07:49.656 2016] This is an ack from gateway
+[Mon Oct 24 00:07:49.660 2016] This is an ack from gateway
+[Mon Oct 24 00:07:54.658 2016] This is an ack from gateway
+[Mon Oct 24 00:07:54.689 2016] This is an ack from gateway
+[Mon Oct 24 00:07:59.663 2016] This is an ack from gateway
+[Mon Oct 24 00:07:59.679 2016] This is an ack from gateway
+[Mon Oct 24 00:08:04.683 2016] This is an ack from gateway
+[Mon Oct 24 00:08:04.714 2016] This is an ack from gateway
+[Mon Oct 24 00:08:09.685 2016] This is an ack from gateway
+[Mon Oct 24 00:08:09.700 2016] This is an ack from gateway
+[Mon Oct 24 00:08:14.689 2016] This is an ack from gateway
+[Mon Oct 24 00:08:14.704 2016] This is an ack from gateway
+[Mon Oct 24 00:08:19.748 2016] This is an ack from gateway
+[Mon Oct 24 00:08:24.717 2016] This is an ack from gateway
+[Mon Oct 24 00:08:24.733 2016] This is an ack from gateway
+[Mon Oct 24 00:08:29.758 2016] This is an ack from gateway
+[Mon Oct 24 00:08:34.799 2016] This is an ack from gateway
+[Mon Oct 24 00:08:39.742 2016] This is an ack from gateway
+[Mon Oct 24 00:08:39.788 2016] This is an ack from gateway
+[Mon Oct 24 00:08:44.752 2016] This is an ack from gateway
+[Mon Oct 24 00:08:44.783 2016] This is an ack from gateway
+[Mon Oct 24 00:08:49.755 2016] This is an ack from gateway
+[Mon Oct 24 00:08:49.792 2016] This is an ack from gateway
+[Mon Oct 24 00:08:54.773 2016] This is an ack from gateway
+[Mon Oct 24 00:08:54.804 2016] This is an ack from gateway
+[Mon Oct 24 00:08:59.788 2016] This is an ack from gateway
+[Mon Oct 24 00:08:59.810 2016] This is an ack from gateway
+[Mon Oct 24 00:09:04.798 2016] This is an ack from gateway
+[Mon Oct 24 00:09:04.830 2016] This is an ack from gateway
+[Mon Oct 24 00:09:14.810 2016] This is an ack from gateway
+[Mon Oct 24 00:09:14.841 2016] This is an ack from gateway
+[Mon Oct 24 00:09:19.834 2016] This is an ack from gateway
+[Mon Oct 24 00:09:19.834 2016] This is an ack from gateway
+[Mon Oct 24 00:09:24.885 2016] This is an ack from gateway
+[Mon Oct 24 00:09:29.840 2016] This is an ack from gateway
+[Mon Oct 24 00:09:29.875 2016] This is an ack from gateway
+[Mon Oct 24 00:09:34.857 2016] This is an ack from gateway
+[Mon Oct 24 00:09:34.873 2016] This is an ack from gateway
+[Mon Oct 24 00:09:39.916 2016] This is an ack from gateway
+[Mon Oct 24 00:09:44.908 2016] This is an ack from gateway
+[Mon Oct 24 00:09:44.924 2016] This is an ack from gateway
+[Mon Oct 24 00:09:49.917 2016] This is an ack from gateway
+[Mon Oct 24 00:09:49.957 2016] This is an ack from gateway
+[Mon Oct 24 00:09:54.907 2016] This is an ack from gateway
+[Mon Oct 24 00:09:54.928 2016] This is an ack from gateway
+[Mon Oct 24 00:09:59.942 2016] This is an ack from gateway
+[Mon Oct 24 00:09:59.998 2016] This is an ack from gateway
+[Mon Oct 24 00:10:04.911 2016] This is an ack from gateway
+[Mon Oct 24 00:10:04.942 2016] This is an ack from gateway
+[Mon Oct 24 00:10:09.988 2016] This is an ack from gateway
+[Mon Oct 24 00:10:14.982 2016] This is an ack from gateway
+[Mon Oct 24 00:10:19.976 2016] This is an ack from gateway
+[Mon Oct 24 00:10:20.022 2016] This is an ack from gateway
+[Mon Oct 24 00:10:24.997 2016] This is an ack from gateway
+[Mon Oct 24 00:10:29.970 2016] This is an ack from gateway
+[Mon Oct 24 00:10:29.986 2016] This is an ack from gateway
+[Mon Oct 24 00:10:34.989 2016] This is an ack from gateway
+[Mon Oct 24 00:10:35.005 2016] This is an ack from gateway
+[Mon Oct 24 00:10:39.999 2016] This is an ack from gateway
+[Mon Oct 24 00:10:40.014 2016] This is an ack from gateway
+[Mon Oct 24 00:10:45.006 2016] This is an ack from gateway
+[Mon Oct 24 00:10:45.037 2016] This is an ack from gateway
+[Mon Oct 24 00:10:50.071 2016] This is an ack from gateway
+[Mon Oct 24 00:10:55.026 2016] This is an ack from gateway
+[Mon Oct 24 00:10:55.042 2016] This is an ack from gateway
+[Mon Oct 24 00:11:00.030 2016] This is an ack from gateway
+[Mon Oct 24 00:11:00.051 2016] This is an ack from gateway
+[Mon Oct 24 00:11:05.076 2016] This is an ack from gateway
+[Mon Oct 24 00:11:10.088 2016] This is an ack from gateway
+[Mon Oct 24 00:11:10.088 2016] This is an ack from gateway
+[Mon Oct 24 00:11:15.071 2016] This is an ack from gateway
+[Mon Oct 24 00:11:15.087 2016] This is an ack from gateway
+[Mon Oct 24 00:11:20.093 2016] This is an ack from gateway
+[Mon Oct 24 00:11:20.109 2016] This is an ack from gateway
+[Mon Oct 24 00:11:25.136 2016] This is an ack from gateway
+[Mon Oct 24 00:11:30.157 2016] This is an ack from gateway
+[Mon Oct 24 00:11:35.107 2016] This is an ack from gateway
+[Mon Oct 24 00:11:35.138 2016] This is an ack from gateway
+[Mon Oct 24 00:11:40.110 2016] This is an ack from gateway
+[Mon Oct 24 00:11:40.141 2016] This is an ack from gateway
+[Mon Oct 24 00:11:45.130 2016] This is an ack from gateway
+[Mon Oct 24 00:11:50.187 2016] This is an ack from gateway
+[Mon Oct 24 00:11:55.214 2016] This is an ack from gateway
+[Mon Oct 24 00:12:00.177 2016] This is an ack from gateway
+[Mon Oct 24 00:12:00.215 2016] This is an ack from gateway
+[Mon Oct 24 00:12:05.216 2016] This is an ack from gateway
+[Mon Oct 24 00:12:10.230 2016] This is an ack from gateway
+[Mon Oct 24 00:12:15.197 2016] This is an ack from gateway
+[Mon Oct 24 00:12:15.228 2016] This is an ack from gateway
+[Mon Oct 24 00:12:20.243 2016] This is an ack from gateway
+[Mon Oct 24 00:12:20.259 2016] This is an ack from gateway
+[Mon Oct 24 00:12:25.208 2016] This is an ack from gateway
+[Mon Oct 24 00:12:25.223 2016] This is an ack from gateway
+[Mon Oct 24 00:12:30.210 2016] This is an ack from gateway
+[Mon Oct 24 00:12:30.257 2016] This is an ack from gateway
+[Mon Oct 24 00:12:35.246 2016] This is an ack from gateway
+[Mon Oct 24 00:12:35.264 2016] This is an ack from gateway
+[Mon Oct 24 00:12:50.277 2016] This is an ack from gateway
+[Mon Oct 24 00:12:50.279 2016] This is an ack from gateway
+[Mon Oct 24 00:12:55.319 2016] This is an ack from gateway
+[Mon Oct 24 00:13:00.309 2016] This is an ack from gateway
+[Mon Oct 24 00:13:15.374 2016] This is an ack from gateway
+[Mon Oct 24 00:13:20.351 2016] This is an ack from gateway
+[Mon Oct 24 00:13:20.355 2016] This is an ack from gateway
+[Mon Oct 24 00:13:25.353 2016] This is an ack from gateway
+[Mon Oct 24 00:13:25.369 2016] This is an ack from gateway
+[Mon Oct 24 00:13:30.355 2016] This is an ack from gateway
+[Mon Oct 24 00:13:30.373 2016] This is an ack from gateway
+[Mon Oct 24 00:13:35.406 2016] This is an ack from gateway
+[Mon Oct 24 00:13:35.406 2016] This is an ack from gateway
+[Mon Oct 24 00:13:45.405 2016] This is an ack from gateway
+[Mon Oct 24 00:13:45.411 2016] This is an ack from gateway
+[Mon Oct 24 00:13:50.429 2016] This is an ack from gateway
+[Mon Oct 24 00:13:50.438 2016] This is an ack from gateway
+[Mon Oct 24 00:13:55.402 2016] This is an ack from gateway
+[Mon Oct 24 00:13:55.439 2016] This is an ack from gateway
+[Mon Oct 24 00:14:00.458 2016] This is an ack from gateway
+[Mon Oct 24 00:14:05.438 2016] This is an ack from gateway
+[Mon Oct 24 00:14:05.454 2016] This is an ack from gateway
+[Mon Oct 24 00:14:10.472 2016] This is an ack from gateway
+[Mon Oct 24 00:14:10.503 2016] This is an ack from gateway
+[Mon Oct 24 00:14:15.452 2016] This is an ack from gateway
+[Mon Oct 24 00:14:15.484 2016] This is an ack from gateway
+[Mon Oct 24 00:14:20.514 2016] This is an ack from gateway
+[Mon Oct 24 00:14:25.537 2016] This is an ack from gateway
+[Mon Oct 24 00:14:30.536 2016] This is an ack from gateway
+[Mon Oct 24 00:14:35.541 2016] This is an ack from gateway
+[Mon Oct 24 00:14:40.511 2016] This is an ack from gateway
+[Mon Oct 24 00:14:40.533 2016] This is an ack from gateway
+[Mon Oct 24 00:14:45.546 2016] This is an ack from gateway
+[Mon Oct 24 00:14:45.578 2016] This is an ack from gateway
+[Mon Oct 24 00:14:50.527 2016] This is an ack from gateway
+[Mon Oct 24 00:14:50.574 2016] This is an ack from gateway
+[Mon Oct 24 00:14:55.577 2016] This is an ack from gateway
+[Mon Oct 24 00:15:00.595 2016] This is an ack from gateway
+[Mon Oct 24 00:15:05.551 2016] This is an ack from gateway
+[Mon Oct 24 00:15:05.597 2016] This is an ack from gateway
+[Mon Oct 24 00:15:10.573 2016] This is an ack from gateway
+[Mon Oct 24 00:15:10.588 2016] This is an ack from gateway
+[Mon Oct 24 00:15:15.617 2016] This is an ack from gateway
+[Mon Oct 24 00:15:20.649 2016] This is an ack from gateway
+[Mon Oct 24 00:15:25.626 2016] This is an ack from gateway
+[Mon Oct 24 00:15:25.657 2016] This is an ack from gateway
+[Mon Oct 24 00:15:30.605 2016] This is an ack from gateway
+[Mon Oct 24 00:15:30.636 2016] This is an ack from gateway
+[Mon Oct 24 00:15:35.631 2016] This is an ack from gateway
+[Mon Oct 24 00:15:35.650 2016] This is an ack from gateway
+[Mon Oct 24 00:15:40.675 2016] This is an ack from gateway
+[Mon Oct 24 00:15:45.635 2016] This is an ack from gateway
+[Mon Oct 24 00:15:45.666 2016] This is an ack from gateway
+[Mon Oct 24 00:15:50.693 2016] This is an ack from gateway
+[Mon Oct 24 00:15:55.660 2016] This is an ack from gateway
+[Mon Oct 24 00:15:55.691 2016] This is an ack from gateway
+[Mon Oct 24 00:16:00.702 2016] This is an ack from gateway
+[Mon Oct 24 00:16:00.733 2016] This is an ack from gateway
+[Mon Oct 24 00:16:05.714 2016] This is an ack from gateway
+[Mon Oct 24 00:16:05.746 2016] This is an ack from gateway
+[Mon Oct 24 00:16:10.750 2016] This is an ack from gateway
+[Mon Oct 24 00:16:15.714 2016] This is an ack from gateway
+[Mon Oct 24 00:16:15.720 2016] This is an ack from gateway
+[Mon Oct 24 00:16:20.730 2016] This is an ack from gateway
+[Mon Oct 24 00:16:20.745 2016] This is an ack from gateway
+[Mon Oct 24 00:16:25.771 2016] This is an ack from gateway
+[Mon Oct 24 00:16:25.787 2016] This is an ack from gateway
+[Mon Oct 24 00:16:35.808 2016] This is an ack from gateway
+[Mon Oct 24 00:16:40.763 2016] This is an ack from gateway
+[Mon Oct 24 00:16:40.779 2016] This is an ack from gateway
+[Mon Oct 24 00:16:45.816 2016] This is an ack from gateway
+[Mon Oct 24 00:16:50.823 2016] This is an ack from gateway
+[Mon Oct 24 00:16:55.857 2016] This is an ack from gateway
+[Mon Oct 24 00:17:00.813 2016] This is an ack from gateway
+[Mon Oct 24 00:17:00.829 2016] This is an ack from gateway
+[Mon Oct 24 00:17:05.820 2016] This is an ack from gateway
+[Mon Oct 24 00:17:05.836 2016] This is an ack from gateway
+[Mon Oct 24 00:17:10.820 2016] This is an ack from gateway
+[Mon Oct 24 00:17:10.851 2016] This is an ack from gateway
+[Mon Oct 24 00:17:15.844 2016] This is an ack from gateway
+[Mon Oct 24 00:17:15.864 2016] This is an ack from gateway
+[Mon Oct 24 00:17:20.860 2016] This is an ack from gateway
+[Mon Oct 24 00:17:20.876 2016] This is an ack from gateway
+[Mon Oct 24 00:17:25.847 2016] This is an ack from gateway
+[Mon Oct 24 00:17:25.863 2016] This is an ack from gateway
+[Mon Oct 24 00:17:30.909 2016] This is an ack from gateway
+[Mon Oct 24 00:17:30.909 2016] This is an ack from gateway
+[Mon Oct 24 00:17:35.935 2016] This is an ack from gateway
+[Mon Oct 24 00:17:40.886 2016] This is an ack from gateway
+[Mon Oct 24 00:17:40.918 2016] This is an ack from gateway
+[Mon Oct 24 00:17:45.905 2016] This is an ack from gateway
+[Mon Oct 24 00:17:45.934 2016] This is an ack from gateway
+[Mon Oct 24 00:17:50.952 2016] This is an ack from gateway
+[Mon Oct 24 00:17:55.949 2016] This is an ack from gateway
+[Mon Oct 24 00:18:00.993 2016] This is an ack from gateway
+[Mon Oct 24 00:18:05.987 2016] This is an ack from gateway
+[Mon Oct 24 00:18:10.985 2016] This is an ack from gateway
+[Mon Oct 24 00:18:16.014 2016] This is an ack from gateway
+[Mon Oct 24 00:18:20.981 2016] This is an ack from gateway
+[Mon Oct 24 00:18:20.997 2016] This is an ack from gateway
+[Mon Oct 24 00:18:25.995 2016] This is an ack from gateway
+[Mon Oct 24 00:18:26.027 2016] This is an ack from gateway
+[Mon Oct 24 00:18:31.041 2016] This is an ack from gateway
+[Mon Oct 24 00:18:36.045 2016] This is an ack from gateway
+[Mon Oct 24 00:18:36.061 2016] This is an ack from gateway
+[Mon Oct 24 00:18:41.019 2016] This is an ack from gateway
+[Mon Oct 24 00:18:41.034 2016] This is an ack from gateway
+[Mon Oct 24 00:18:46.038 2016] This is an ack from gateway
+[Mon Oct 24 00:18:46.054 2016] This is an ack from gateway
+[Mon Oct 24 00:18:51.045 2016] This is an ack from gateway
+[Mon Oct 24 00:18:51.045 2016] This is an ack from gateway
+[Mon Oct 24 00:18:56.094 2016] This is an ack from gateway
+[Mon Oct 24 00:19:01.097 2016] This is an ack from gateway
+[Mon Oct 24 00:19:06.101 2016] This is an ack from gateway
+[Mon Oct 24 00:19:11.097 2016] This is an ack from gateway
+[Mon Oct 24 00:19:11.150 2016] This is an ack from gateway
+[Mon Oct 24 00:19:16.098 2016] This is an ack from gateway
+[Mon Oct 24 00:19:16.107 2016] This is an ack from gateway
+[Mon Oct 24 00:19:21.097 2016] This is an ack from gateway
+[Mon Oct 24 00:19:21.116 2016] This is an ack from gateway
+[Mon Oct 24 00:19:31.126 2016] This is an ack from gateway
+[Mon Oct 24 00:19:31.132 2016] This is an ack from gateway
+[Mon Oct 24 00:19:36.116 2016] This is an ack from gateway
+[Mon Oct 24 00:19:36.163 2016] This is an ack from gateway
+[Mon Oct 24 00:19:41.150 2016] This is an ack from gateway
+[Mon Oct 24 00:19:41.165 2016] This is an ack from gateway
+[Mon Oct 24 00:19:46.158 2016] This is an ack from gateway
+[Mon Oct 24 00:19:46.159 2016] This is an ack from gateway
+[Mon Oct 24 00:19:51.149 2016] This is an ack from gateway
+[Mon Oct 24 00:19:51.181 2016] This is an ack from gateway
+[Mon Oct 24 00:19:56.173 2016] This is an ack from gateway
+[Mon Oct 24 00:19:56.195 2016] This is an ack from gateway
+[Mon Oct 24 00:20:01.191 2016] This is an ack from gateway
+[Mon Oct 24 00:20:01.206 2016] This is an ack from gateway
+[Mon Oct 24 00:20:06.179 2016] This is an ack from gateway
+[Mon Oct 24 00:20:11.200 2016] This is an ack from gateway
+[Mon Oct 24 00:20:11.231 2016] This is an ack from gateway
+[Mon Oct 24 00:20:16.211 2016] This is an ack from gateway
+[Mon Oct 24 00:20:16.243 2016] This is an ack from gateway
+[Mon Oct 24 00:20:21.270 2016] This is an ack from gateway
+[Mon Oct 24 00:20:26.280 2016] This is an ack from gateway
+[Mon Oct 24 00:20:31.243 2016] This is an ack from gateway
+[Mon Oct 24 00:20:31.261 2016] This is an ack from gateway
+[Mon Oct 24 00:20:36.257 2016] This is an ack from gateway
+[Mon Oct 24 00:20:36.288 2016] This is an ack from gateway
+[Mon Oct 24 00:20:41.307 2016] This is an ack from gateway
+[Mon Oct 24 00:20:46.314 2016] This is an ack from gateway
+[Mon Oct 24 00:20:51.292 2016] This is an ack from gateway
+[Mon Oct 24 00:20:51.323 2016] This is an ack from gateway
+[Mon Oct 24 00:20:56.354 2016] This is an ack from gateway
+[Mon Oct 24 00:21:01.336 2016] This is an ack from gateway
+[Mon Oct 24 00:21:06.335 2016] This is an ack from gateway
+[Mon Oct 24 00:21:06.367 2016] This is an ack from gateway
+[Mon Oct 24 00:21:11.390 2016] This is an ack from gateway
+[Mon Oct 24 00:21:11.392 2016] This is an ack from gateway
+[Mon Oct 24 00:21:16.359 2016] This is an ack from gateway
+[Mon Oct 24 00:21:16.379 2016] This is an ack from gateway
+[Mon Oct 24 00:21:21.366 2016] This is an ack from gateway
+[Mon Oct 24 00:21:26.360 2016] This is an ack from gateway
+[Mon Oct 24 00:21:26.375 2016] This is an ack from gateway
+[Mon Oct 24 00:21:31.417 2016] This is an ack from gateway
+[Mon Oct 24 00:21:41.398 2016] This is an ack from gateway
+[Mon Oct 24 00:21:41.429 2016] This is an ack from gateway
+[Mon Oct 24 00:21:46.449 2016] This is an ack from gateway
+[Mon Oct 24 00:21:46.470 2016] This is an ack from gateway
+[Mon Oct 24 00:21:51.415 2016] This is an ack from gateway
+[Mon Oct 24 00:21:51.437 2016] This is an ack from gateway
+[Mon Oct 24 00:21:56.478 2016] This is an ack from gateway
+[Mon Oct 24 00:22:01.480 2016] This is an ack from gateway
+[Mon Oct 24 00:22:06.457 2016] This is an ack from gateway
+[Mon Oct 24 00:22:06.472 2016] This is an ack from gateway
+[Mon Oct 24 00:22:11.449 2016] This is an ack from gateway
+[Mon Oct 24 00:22:11.465 2016] This is an ack from gateway
+[Mon Oct 24 00:22:16.541 2016] This is an ack from gateway
+[Mon Oct 24 00:22:21.530 2016] This is an ack from gateway
+[Mon Oct 24 00:22:26.494 2016] This is an ack from gateway
+[Mon Oct 24 00:22:26.518 2016] This is an ack from gateway
+[Mon Oct 24 00:22:31.507 2016] This is an ack from gateway
+[Mon Oct 24 00:22:31.539 2016] This is an ack from gateway
+[Mon Oct 24 00:22:36.559 2016] This is an ack from gateway
+[Mon Oct 24 00:22:41.564 2016] This is an ack from gateway
+[Mon Oct 24 00:22:46.570 2016] This is an ack from gateway
+[Mon Oct 24 00:22:51.587 2016] This is an ack from gateway
+[Mon Oct 24 00:23:01.565 2016] This is an ack from gateway
+[Mon Oct 24 00:23:01.581 2016] This is an ack from gateway
+[Mon Oct 24 00:23:06.595 2016] This is an ack from gateway
+[Mon Oct 24 00:23:06.611 2016] This is an ack from gateway
+[Mon Oct 24 00:23:11.621 2016] This is an ack from gateway
+[Mon Oct 24 00:23:16.588 2016] This is an ack from gateway
+[Mon Oct 24 00:23:16.611 2016] This is an ack from gateway
+[Mon Oct 24 00:23:21.593 2016] This is an ack from gateway
+[Mon Oct 24 00:23:21.625 2016] This is an ack from gateway
+[Mon Oct 24 00:23:26.667 2016] This is an ack from gateway
+[Mon Oct 24 00:23:31.613 2016] This is an ack from gateway
+[Mon Oct 24 00:23:31.675 2016] This is an ack from gateway
+[Mon Oct 24 00:23:36.677 2016] This is an ack from gateway
+[Mon Oct 24 00:23:41.690 2016] Requesting time from Gateway...
+[Mon Oct 24 00:23:41.743 2016] ...Performing start of day tasks...
+[Mon Oct 24 00:23:41.743 2016] Daily Stats:  Bowl filled 29 time(s) today.
+[Mon Oct 24 00:23:41.743 2016] 
+[Mon Oct 24 00:23:41.743 2016] Resetting Stats.
+[Mon Oct 24 00:23:46.651 2016] This is an ack from gateway
+[Mon Oct 24 00:23:46.682 2016] This is an ack from gateway
+[Mon Oct 24 00:23:51.654 2016] This is an ack from gateway
+[Mon Oct 24 00:23:51.685 2016] This is an ack from gateway
+[Mon Oct 24 00:23:56.713 2016] This is an ack from gateway
+[Mon Oct 24 00:24:01.720 2016] This is an ack from gateway
+[Mon Oct 24 00:24:06.740 2016] This is an ack from gateway
+[Mon Oct 24 00:24:11.723 2016] This is an ack from gateway
+[Mon Oct 24 00:24:11.723 2016] This is an ack from gateway
+[Mon Oct 24 00:24:16.757 2016] This is an ack from gateway
+[Mon Oct 24 00:24:21.720 2016] This is an ack from gateway
+[Mon Oct 24 00:24:21.767 2016] This is an ack from gateway
+[Mon Oct 24 00:24:26.733 2016] This is an ack from gateway
+[Mon Oct 24 00:24:26.749 2016] This is an ack from gateway
+[Mon Oct 24 00:24:31.791 2016] This is an ack from gateway
+[Mon Oct 24 00:24:36.752 2016] This is an ack from gateway
+[Mon Oct 24 00:24:36.788 2016] This is an ack from gateway
+[Mon Oct 24 00:24:41.770 2016] This is an ack from gateway
+[Mon Oct 24 00:24:41.786 2016] This is an ack from gateway
+[Mon Oct 24 00:24:46.775 2016] This is an ack from gateway
+[Mon Oct 24 00:24:46.812 2016] This is an ack from gateway
+[Mon Oct 24 00:24:51.790 2016] This is an ack from gateway
+[Mon Oct 24 00:24:51.806 2016] This is an ack from gateway
+[Mon Oct 24 00:24:56.859 2016] This is an ack from gateway
+[Mon Oct 24 00:25:01.801 2016] This is an ack from gateway
+[Mon Oct 24 00:25:01.839 2016] This is an ack from gateway
+[Mon Oct 24 00:25:06.874 2016] This is an ack from gateway
+[Mon Oct 24 00:25:11.883 2016] This is an ack from gateway
+[Mon Oct 24 00:25:16.887 2016] This is an ack from gateway
+[Mon Oct 24 00:25:16.904 2016] This is an ack from gateway
+[Mon Oct 24 00:25:21.902 2016] This is an ack from gateway
+[Mon Oct 24 00:25:26.860 2016] This is an ack from gateway
+[Mon Oct 24 00:25:26.892 2016] This is an ack from gateway
+[Mon Oct 24 00:25:31.874 2016] This is an ack from gateway
+[Mon Oct 24 00:25:31.890 2016] This is an ack from gateway
+[Mon Oct 24 00:25:36.939 2016] This is an ack from gateway
+[Mon Oct 24 00:25:41.937 2016] This is an ack from gateway
+[Mon Oct 24 00:25:46.958 2016] This is an ack from gateway
+[Mon Oct 24 00:25:51.942 2016] This is an ack from gateway
+[Mon Oct 24 00:25:51.989 2016] This is an ack from gateway
+[Mon Oct 24 00:25:56.926 2016] This is an ack from gateway
+[Mon Oct 24 00:25:56.941 2016] This is an ack from gateway
+[Mon Oct 24 00:26:01.943 2016] This is an ack from gateway
+[Mon Oct 24 00:26:11.960 2016] This is an ack from gateway
+[Mon Oct 24 00:26:11.997 2016] This is an ack from gateway
+[Mon Oct 24 00:26:16.970 2016] This is an ack from gateway
+[Mon Oct 24 00:26:17.001 2016] This is an ack from gateway
+[Mon Oct 24 00:26:22.012 2016] This is an ack from gateway
+[Mon Oct 24 00:26:22.028 2016] This is an ack from gateway
+[Mon Oct 24 00:26:27.027 2016] This is an ack from gateway
+[Mon Oct 24 00:26:27.043 2016] This is an ack from gateway
+[Mon Oct 24 00:26:32.056 2016] This is an ack from gateway
+[Mon Oct 24 00:26:37.047 2016] This is an ack from gateway
+[Mon Oct 24 00:26:42.013 2016] This is an ack from gateway
+[Mon Oct 24 00:26:42.029 2016] This is an ack from gateway
+[Mon Oct 24 00:26:47.077 2016] This is an ack from gateway
+[Mon Oct 24 00:26:47.093 2016] This is an ack from gateway
+[Mon Oct 24 00:26:52.039 2016] This is an ack from gateway
+[Mon Oct 24 00:26:52.054 2016] This is an ack from gateway
+[Mon Oct 24 00:26:57.064 2016] This is an ack from gateway
+[Mon Oct 24 00:26:57.080 2016] This is an ack from gateway
+[Mon Oct 24 00:27:02.065 2016] This is an ack from gateway
+[Mon Oct 24 00:27:02.081 2016] This is an ack from gateway
+[Mon Oct 24 00:27:07.078 2016] This is an ack from gateway
+[Mon Oct 24 00:27:07.109 2016] This is an ack from gateway
+[Mon Oct 24 00:27:12.075 2016] This is an ack from gateway
+[Mon Oct 24 00:27:12.113 2016] This is an ack from gateway
+[Mon Oct 24 00:27:17.134 2016] This is an ack from gateway
+[Mon Oct 24 00:27:17.149 2016] This is an ack from gateway
+[Mon Oct 24 00:27:22.143 2016] This is an ack from gateway
+[Mon Oct 24 00:27:27.149 2016] This is an ack from gateway
+[Mon Oct 24 00:27:32.183 2016] This is an ack from gateway
+[Mon Oct 24 00:27:37.155 2016] This is an ack from gateway
+[Mon Oct 24 00:27:37.208 2016] This is an ack from gateway
+[Mon Oct 24 00:27:42.184 2016] This is an ack from gateway
+[Mon Oct 24 00:27:47.163 2016] This is an ack from gateway
+[Mon Oct 24 00:27:47.197 2016] This is an ack from gateway
+[Mon Oct 24 00:27:52.212 2016] This is an ack from gateway
+[Mon Oct 24 00:27:57.190 2016] This is an ack from gateway
+[Mon Oct 24 00:27:57.206 2016] This is an ack from gateway
+[Mon Oct 24 00:28:02.241 2016] This is an ack from gateway
+[Mon Oct 24 00:28:07.209 2016] This is an ack from gateway
+[Mon Oct 24 00:28:07.225 2016] This is an ack from gateway
+[Mon Oct 24 00:28:12.273 2016] This is an ack from gateway
+[Mon Oct 24 00:28:17.221 2016] This is an ack from gateway
+[Mon Oct 24 00:28:17.253 2016] This is an ack from gateway
+[Mon Oct 24 00:28:22.239 2016] This is an ack from gateway
+[Mon Oct 24 00:28:22.254 2016] This is an ack from gateway
+[Mon Oct 24 00:28:27.238 2016] This is an ack from gateway
+[Mon Oct 24 00:28:27.270 2016] This is an ack from gateway
+[Mon Oct 24 00:28:32.269 2016] This is an ack from gateway
+[Mon Oct 24 00:28:32.287 2016] This is an ack from gateway
+[Mon Oct 24 00:28:37.265 2016] This is an ack from gateway
+[Mon Oct 24 00:28:37.281 2016] This is an ack from gateway
+[Mon Oct 24 00:28:42.262 2016] This is an ack from gateway
+[Mon Oct 24 00:28:42.310 2016] This is an ack from gateway
+[Mon Oct 24 00:28:47.293 2016] This is an ack from gateway
+[Mon Oct 24 00:28:47.309 2016] This is an ack from gateway
+[Mon Oct 24 00:28:52.297 2016] This is an ack from gateway
+[Mon Oct 24 00:28:52.326 2016] This is an ack from gateway
+[Mon Oct 24 00:28:57.304 2016] This is an ack from gateway
+[Mon Oct 24 00:28:57.327 2016] This is an ack from gateway
+[Mon Oct 24 00:29:02.313 2016] This is an ack from gateway
+[Mon Oct 24 00:29:02.344 2016] This is an ack from gateway
+[Mon Oct 24 00:29:07.370 2016] This is an ack from gateway
+[Mon Oct 24 00:29:12.388 2016] This is an ack from gateway
+[Mon Oct 24 00:29:17.351 2016] This is an ack from gateway
+[Mon Oct 24 00:29:22.372 2016] This is an ack from gateway
+[Mon Oct 24 00:29:27.377 2016] This is an ack from gateway
+[Mon Oct 24 00:29:27.405 2016] This is an ack from gateway
+[Mon Oct 24 00:29:32.408 2016] This is an ack from gateway
+[Mon Oct 24 00:29:32.439 2016] This is an ack from gateway
+[Mon Oct 24 00:29:37.395 2016] This is an ack from gateway
+[Mon Oct 24 00:29:37.411 2016] This is an ack from gateway
+[Mon Oct 24 00:29:42.454 2016] This is an ack from gateway
+[Mon Oct 24 00:29:47.441 2016] This is an ack from gateway
+[Mon Oct 24 00:29:47.479 2016] This is an ack from gateway
+[Mon Oct 24 00:29:52.461 2016] This is an ack from gateway
+[Mon Oct 24 00:29:57.478 2016] This is an ack from gateway
+[Mon Oct 24 00:30:02.487 2016] This is an ack from gateway
+[Mon Oct 24 00:30:07.456 2016] This is an ack from gateway
+[Mon Oct 24 00:30:07.471 2016] This is an ack from gateway
+[Mon Oct 24 00:30:12.455 2016] This is an ack from gateway
+[Mon Oct 24 00:30:17.475 2016] This is an ack from gateway
+[Mon Oct 24 00:30:17.496 2016] This is an ack from gateway
+[Mon Oct 24 00:30:22.503 2016] This is an ack from gateway
+[Mon Oct 24 00:30:22.503 2016] This is an ack from gateway
+[Mon Oct 24 00:30:27.541 2016] This is an ack from gateway
+[Mon Oct 24 00:30:32.559 2016] This is an ack from gateway
+[Mon Oct 24 00:30:37.540 2016] This is an ack from gateway
+[Mon Oct 24 00:30:37.587 2016] This is an ack from gateway
+[Mon Oct 24 00:30:42.542 2016] This is an ack from gateway
+[Mon Oct 24 00:30:47.544 2016] This is an ack from gateway
+[Mon Oct 24 00:30:47.559 2016] This is an ack from gateway
+[Mon Oct 24 00:30:52.601 2016] This is an ack from gateway
+[Mon Oct 24 00:30:57.599 2016] This is an ack from gateway
+[Mon Oct 24 00:31:02.622 2016] This is an ack from gateway
+[Mon Oct 24 00:31:07.624 2016] This is an ack from gateway
+[Mon Oct 24 00:31:12.639 2016] This is an ack from gateway
+[Mon Oct 24 00:31:17.592 2016] This is an ack from gateway
+[Mon Oct 24 00:31:17.624 2016] This is an ack from gateway
+[Mon Oct 24 00:31:22.633 2016] This is an ack from gateway
+[Mon Oct 24 00:31:27.624 2016] This is an ack from gateway
+[Mon Oct 24 00:31:27.639 2016] This is an ack from gateway
+[Mon Oct 24 00:31:32.677 2016] This is an ack from gateway
+[Mon Oct 24 00:31:37.694 2016] This is an ack from gateway
+[Mon Oct 24 00:31:42.655 2016] This is an ack from gateway
+[Mon Oct 24 00:31:42.692 2016] This is an ack from gateway
+[Mon Oct 24 00:31:47.678 2016] This is an ack from gateway
+[Mon Oct 24 00:31:47.709 2016] This is an ack from gateway
+[Mon Oct 24 00:31:52.733 2016] This is an ack from gateway
+[Mon Oct 24 00:31:57.720 2016] This is an ack from gateway
+[Mon Oct 24 00:31:57.749 2016] This is an ack from gateway
+[Mon Oct 24 00:32:02.743 2016] This is an ack from gateway
+[Mon Oct 24 00:32:07.756 2016] This is an ack from gateway
+[Mon Oct 24 00:32:12.735 2016] This is an ack from gateway
+[Mon Oct 24 00:32:17.727 2016] This is an ack from gateway
+[Mon Oct 24 00:32:17.782 2016] This is an ack from gateway
+[Mon Oct 24 00:32:22.792 2016] This is an ack from gateway
+[Mon Oct 24 00:32:27.808 2016] This is an ack from gateway
+[Mon Oct 24 00:32:32.768 2016] This is an ack from gateway
+[Mon Oct 24 00:32:32.806 2016] This is an ack from gateway
+[Mon Oct 24 00:32:37.817 2016] This is an ack from gateway
+[Mon Oct 24 00:32:42.788 2016] This is an ack from gateway
+[Mon Oct 24 00:32:42.803 2016] This is an ack from gateway
+[Mon Oct 24 00:32:47.842 2016] This is an ack from gateway
+[Mon Oct 24 00:32:52.813 2016] This is an ack from gateway
+[Mon Oct 24 00:32:57.858 2016] This is an ack from gateway
+[Mon Oct 24 00:33:02.871 2016] This is an ack from gateway
+[Mon Oct 24 00:33:07.898 2016] This is an ack from gateway
+[Mon Oct 24 00:33:12.846 2016] This is an ack from gateway
+[Mon Oct 24 00:33:12.877 2016] This is an ack from gateway
+[Mon Oct 24 00:33:17.905 2016] This is an ack from gateway
+[Mon Oct 24 00:33:22.890 2016] This is an ack from gateway
+[Mon Oct 24 00:33:22.890 2016] This is an ack from gateway
+[Mon Oct 24 00:33:27.873 2016] This is an ack from gateway
+[Mon Oct 24 00:33:27.904 2016] This is an ack from gateway
+[Mon Oct 24 00:33:32.946 2016] This is an ack from gateway
+[Mon Oct 24 00:33:37.901 2016] This is an ack from gateway
+[Mon Oct 24 00:33:37.921 2016] This is an ack from gateway
+[Mon Oct 24 00:33:42.922 2016] This is an ack from gateway
+[Mon Oct 24 00:33:42.953 2016] This is an ack from gateway
+[Mon Oct 24 00:33:47.982 2016] This is an ack from gateway
+[Mon Oct 24 00:33:52.933 2016] This is an ack from gateway
+[Mon Oct 24 00:33:52.969 2016] This is an ack from gateway
+[Mon Oct 24 00:33:57.990 2016] This is an ack from gateway
+[Mon Oct 24 00:34:02.951 2016] This is an ack from gateway
+[Mon Oct 24 00:34:02.966 2016] This is an ack from gateway
+[Mon Oct 24 00:34:07.967 2016] This is an ack from gateway
+[Mon Oct 24 00:34:08.004 2016] This is an ack from gateway
+[Mon Oct 24 00:34:12.985 2016] This is an ack from gateway
+[Mon Oct 24 00:34:13.000 2016] This is an ack from gateway
+[Mon Oct 24 00:34:17.989 2016] This is an ack from gateway
+[Mon Oct 24 00:34:18.023 2016] This is an ack from gateway
+[Mon Oct 24 00:34:23.037 2016] This is an ack from gateway
+[Mon Oct 24 00:34:23.057 2016] This is an ack from gateway
+[Mon Oct 24 00:34:28.002 2016] This is an ack from gateway
+[Mon Oct 24 00:34:28.027 2016] This is an ack from gateway
+[Mon Oct 24 00:34:33.020 2016] This is an ack from gateway
+[Mon Oct 24 00:34:33.051 2016] This is an ack from gateway
+[Mon Oct 24 00:34:38.028 2016] This is an ack from gateway
+[Mon Oct 24 00:34:38.059 2016] This is an ack from gateway
+[Mon Oct 24 00:34:43.046 2016] This is an ack from gateway
+[Mon Oct 24 00:34:43.048 2016] This is an ack from gateway
+[Mon Oct 24 00:34:48.102 2016] This is an ack from gateway
+[Mon Oct 24 00:34:53.119 2016] This is an ack from gateway
+[Mon Oct 24 00:34:58.117 2016] This is an ack from gateway
+[Mon Oct 24 00:35:03.126 2016] This is an ack from gateway
+[Mon Oct 24 00:35:13.099 2016] This is an ack from gateway
+[Mon Oct 24 00:35:13.146 2016] This is an ack from gateway
+[Mon Oct 24 00:35:18.116 2016] This is an ack from gateway
+[Mon Oct 24 00:35:18.133 2016] This is an ack from gateway
+[Mon Oct 24 00:35:23.168 2016] This is an ack from gateway
+[Mon Oct 24 00:35:28.176 2016] This is an ack from gateway
+[Mon Oct 24 00:35:33.199 2016] This is an ack from gateway
+[Mon Oct 24 00:35:38.201 2016] This is an ack from gateway
+[Mon Oct 24 00:35:43.177 2016] This is an ack from gateway
+[Mon Oct 24 00:35:43.193 2016] This is an ack from gateway
+[Mon Oct 24 00:35:53.188 2016] This is an ack from gateway
+[Mon Oct 24 00:35:53.204 2016] This is an ack from gateway
+[Mon Oct 24 00:35:58.246 2016] This is an ack from gateway
+[Mon Oct 24 00:36:03.258 2016] This is an ack from gateway
+[Mon Oct 24 00:36:03.274 2016] This is an ack from gateway
+[Mon Oct 24 00:36:08.225 2016] This is an ack from gateway
+[Mon Oct 24 00:36:08.246 2016] This is an ack from gateway
+[Mon Oct 24 00:36:13.280 2016] This is an ack from gateway
+[Mon Oct 24 00:36:18.288 2016] This is an ack from gateway
+[Mon Oct 24 00:36:18.304 2016] This is an ack from gateway
+[Mon Oct 24 00:36:23.249 2016] This is an ack from gateway
+[Mon Oct 24 00:36:23.280 2016] This is an ack from gateway
+[Mon Oct 24 00:36:33.284 2016] This is an ack from gateway
+[Mon Oct 24 00:36:33.302 2016] This is an ack from gateway
+[Mon Oct 24 00:36:38.331 2016] This is an ack from gateway
+[Mon Oct 24 00:36:43.286 2016] This is an ack from gateway
+[Mon Oct 24 00:36:43.317 2016] This is an ack from gateway
+[Mon Oct 24 00:36:48.337 2016] This is an ack from gateway
+[Mon Oct 24 00:36:48.352 2016] This is an ack from gateway
+[Mon Oct 24 00:36:53.315 2016] This is an ack from gateway
+[Mon Oct 24 00:36:53.337 2016] This is an ack from gateway
+[Mon Oct 24 00:36:58.343 2016] This is an ack from gateway
+[Mon Oct 24 00:36:58.343 2016] This is an ack from gateway
+[Mon Oct 24 00:37:03.345 2016] This is an ack from gateway
+[Mon Oct 24 00:37:03.362 2016] This is an ack from gateway
+[Mon Oct 24 00:37:08.335 2016] This is an ack from gateway
+[Mon Oct 24 00:37:08.367 2016] This is an ack from gateway
+[Mon Oct 24 00:37:13.413 2016] This is an ack from gateway
+[Mon Oct 24 00:37:18.418 2016] This is an ack from gateway
+[Mon Oct 24 00:37:23.362 2016] This is an ack from gateway
+[Mon Oct 24 00:37:23.410 2016] This is an ack from gateway
+[Mon Oct 24 00:37:28.427 2016] This is an ack from gateway
+[Mon Oct 24 00:37:28.443 2016] This is an ack from gateway
+[Mon Oct 24 00:37:33.402 2016] This is an ack from gateway
+[Mon Oct 24 00:37:33.433 2016] This is an ack from gateway
+[Mon Oct 24 00:37:38.464 2016] This is an ack from gateway
+[Mon Oct 24 00:37:43.430 2016] This is an ack from gateway
+[Mon Oct 24 00:37:43.446 2016] This is an ack from gateway
+[Mon Oct 24 00:37:48.469 2016] This is an ack from gateway
+[Mon Oct 24 00:37:53.479 2016] This is an ack from gateway
+[Mon Oct 24 00:37:58.445 2016] This is an ack from gateway
+[Mon Oct 24 00:38:03.490 2016] This is an ack from gateway
+[Mon Oct 24 00:38:03.490 2016] This is an ack from gateway
+[Mon Oct 24 00:38:08.478 2016] This is an ack from gateway
+[Mon Oct 24 00:38:13.519 2016] This is an ack from gateway
+[Mon Oct 24 00:38:18.506 2016] This is an ack from gateway
+[Mon Oct 24 00:38:18.520 2016] This is an ack from gateway
+[Mon Oct 24 00:38:23.528 2016] This is an ack from gateway
+[Mon Oct 24 00:38:23.532 2016] This is an ack from gateway
+[Mon Oct 24 00:38:28.552 2016] This is an ack from gateway
+[Mon Oct 24 00:38:33.576 2016] This is an ack from gateway
+[Mon Oct 24 00:38:38.569 2016] This is an ack from gateway
+[Mon Oct 24 00:38:38.605 2016] This is an ack from gateway
+[Mon Oct 24 00:38:43.571 2016] This is an ack from gateway
+[Mon Oct 24 00:38:43.571 2016] This is an ack from gateway
+[Mon Oct 24 00:38:48.606 2016] This is an ack from gateway
+[Mon Oct 24 00:38:53.562 2016] This is an ack from gateway
+[Mon Oct 24 00:38:53.594 2016] This is an ack from gateway
+[Mon Oct 24 00:38:58.639 2016] This is an ack from gateway
+[Mon Oct 24 00:39:08.604 2016] This is an ack from gateway
+[Mon Oct 24 00:39:08.620 2016] This is an ack from gateway
+[Mon Oct 24 00:39:13.628 2016] This is an ack from gateway
+[Mon Oct 24 00:39:13.643 2016] This is an ack from gateway
+[Mon Oct 24 00:39:18.663 2016] This is an ack from gateway
+[Mon Oct 24 00:39:23.640 2016] This is an ack from gateway
+[Mon Oct 24 00:39:23.656 2016] This is an ack from gateway
+[Mon Oct 24 00:39:28.658 2016] This is an ack from gateway
+[Mon Oct 24 00:39:28.680 2016] This is an ack from gateway
+[Mon Oct 24 00:39:33.701 2016] This is an ack from gateway
+[Mon Oct 24 00:39:38.660 2016] This is an ack from gateway
+[Mon Oct 24 00:39:38.691 2016] This is an ack from gateway
+[Mon Oct 24 00:39:43.688 2016] This is an ack from gateway
+[Mon Oct 24 00:39:43.710 2016] This is an ack from gateway
+[Mon Oct 24 00:39:48.722 2016] This is an ack from gateway
+[Mon Oct 24 00:39:53.698 2016] This is an ack from gateway
+[Mon Oct 24 00:39:53.730 2016] This is an ack from gateway
+[Mon Oct 24 00:39:58.703 2016] This is an ack from gateway
+[Mon Oct 24 00:39:58.735 2016] This is an ack from gateway
+[Mon Oct 24 00:40:03.756 2016] This is an ack from gateway
+[Mon Oct 24 00:40:08.729 2016] This is an ack from gateway
+[Mon Oct 24 00:40:08.761 2016] This is an ack from gateway
+[Mon Oct 24 00:40:13.762 2016] This is an ack from gateway
+[Mon Oct 24 00:40:13.762 2016] This is an ack from gateway
+[Mon Oct 24 00:40:18.793 2016] This is an ack from gateway
+[Mon Oct 24 00:40:23.759 2016] This is an ack from gateway
+[Mon Oct 24 00:40:23.790 2016] This is an ack from gateway
+[Mon Oct 24 00:40:28.810 2016] This is an ack from gateway
+[Mon Oct 24 00:40:33.776 2016] This is an ack from gateway
+[Mon Oct 24 00:40:33.813 2016] This is an ack from gateway
+[Mon Oct 24 00:40:38.846 2016] This is an ack from gateway
+[Mon Oct 24 00:40:43.854 2016] This is an ack from gateway
+[Mon Oct 24 00:40:48.807 2016] This is an ack from gateway
+[Mon Oct 24 00:40:48.845 2016] This is an ack from gateway
+[Mon Oct 24 00:40:53.847 2016] This is an ack from gateway
+[Mon Oct 24 00:40:53.847 2016] This is an ack from gateway
+[Mon Oct 24 00:40:58.888 2016] This is an ack from gateway
+[Mon Oct 24 00:41:03.837 2016] This is an ack from gateway
+[Mon Oct 24 00:41:03.892 2016] This is an ack from gateway
+[Mon Oct 24 00:41:08.881 2016] This is an ack from gateway
+[Mon Oct 24 00:41:13.863 2016] This is an ack from gateway
+[Mon Oct 24 00:41:13.894 2016] This is an ack from gateway
+[Mon Oct 24 00:41:18.919 2016] This is an ack from gateway
+[Mon Oct 24 00:41:23.937 2016] This is an ack from gateway
+[Mon Oct 24 00:41:28.945 2016] This is an ack from gateway
+[Mon Oct 24 00:41:33.948 2016] This is an ack from gateway
+[Mon Oct 24 00:41:38.933 2016] This is an ack from gateway
+[Mon Oct 24 00:41:38.948 2016] This is an ack from gateway
+[Mon Oct 24 00:41:43.937 2016] This is an ack from gateway
+[Mon Oct 24 00:41:43.953 2016] This is an ack from gateway
+[Mon Oct 24 00:41:48.944 2016] This is an ack from gateway
+[Mon Oct 24 00:41:48.959 2016] This is an ack from gateway
+[Mon Oct 24 00:41:53.944 2016] This is an ack from gateway
+[Mon Oct 24 00:41:53.976 2016] This is an ack from gateway
+[Mon Oct 24 00:41:58.967 2016] This is an ack from gateway
+[Mon Oct 24 00:41:58.989 2016] This is an ack from gateway
+[Mon Oct 24 00:42:03.967 2016] This is an ack from gateway
+[Mon Oct 24 00:42:03.998 2016] This is an ack from gateway
+[Mon Oct 24 00:42:09.049 2016] This is an ack from gateway
+[Mon Oct 24 00:42:14.051 2016] This is an ack from gateway
+[Mon Oct 24 00:42:19.054 2016] This is an ack from gateway
+[Mon Oct 24 00:42:24.058 2016] This is an ack from gateway
+[Mon Oct 24 00:42:29.076 2016] This is an ack from gateway
+[Mon Oct 24 00:42:34.027 2016] This is an ack from gateway
+[Mon Oct 24 00:42:34.058 2016] This is an ack from gateway
+[Mon Oct 24 00:42:39.086 2016] This is an ack from gateway
+[Mon Oct 24 00:42:44.046 2016] This is an ack from gateway
+[Mon Oct 24 00:42:44.083 2016] This is an ack from gateway
+[Mon Oct 24 00:42:49.073 2016] This is an ack from gateway
+[Mon Oct 24 00:42:49.089 2016] This is an ack from gateway
+[Mon Oct 24 00:42:54.135 2016] This is an ack from gateway
+[Mon Oct 24 00:42:59.082 2016] This is an ack from gateway
+[Mon Oct 24 00:42:59.120 2016] This is an ack from gateway
+[Mon Oct 24 00:43:04.103 2016] This is an ack from gateway
+[Mon Oct 24 00:43:04.119 2016] This is an ack from gateway
+[Mon Oct 24 00:43:09.151 2016] This is an ack from gateway
+[Mon Oct 24 00:43:14.130 2016] This is an ack from gateway
+[Mon Oct 24 00:43:14.146 2016] This is an ack from gateway
+[Mon Oct 24 00:43:19.183 2016] This is an ack from gateway
+[Mon Oct 24 00:43:24.163 2016] This is an ack from gateway
+[Mon Oct 24 00:43:24.195 2016] This is an ack from gateway
+[Mon Oct 24 00:43:29.165 2016] This is an ack from gateway
+[Mon Oct 24 00:43:29.180 2016] This is an ack from gateway
+[Mon Oct 24 00:43:34.217 2016] This is an ack from gateway
+[Mon Oct 24 00:43:39.164 2016] This is an ack from gateway
+[Mon Oct 24 00:43:39.195 2016] This is an ack from gateway
+[Mon Oct 24 00:43:44.204 2016] This is an ack from gateway
+[Mon Oct 24 00:43:44.204 2016] This is an ack from gateway
+[Mon Oct 24 00:43:49.184 2016] This is an ack from gateway
+[Mon Oct 24 00:43:49.225 2016] This is an ack from gateway
+[Mon Oct 24 00:43:54.252 2016] This is an ack from gateway
+[Mon Oct 24 00:43:54.270 2016] This is an ack from gateway
+[Mon Oct 24 00:43:59.214 2016] This is an ack from gateway
+[Mon Oct 24 00:43:59.230 2016] This is an ack from gateway
+[Mon Oct 24 00:44:04.265 2016] This is an ack from gateway
+[Mon Oct 24 00:44:04.281 2016] This is an ack from gateway
+[Mon Oct 24 00:44:09.248 2016] This is an ack from gateway
+[Mon Oct 24 00:44:09.248 2016] This is an ack from gateway
+[Mon Oct 24 00:44:14.248 2016] This is an ack from gateway
+[Mon Oct 24 00:44:14.266 2016] This is an ack from gateway
+[Mon Oct 24 00:44:19.300 2016] This is an ack from gateway
+[Mon Oct 24 00:44:24.276 2016] This is an ack from gateway
+[Mon Oct 24 00:44:24.293 2016] This is an ack from gateway
+[Mon Oct 24 00:44:29.278 2016] This is an ack from gateway
+[Mon Oct 24 00:44:29.309 2016] This is an ack from gateway
+[Mon Oct 24 00:44:34.297 2016] This is an ack from gateway
+[Mon Oct 24 00:44:34.313 2016] This is an ack from gateway
+[Mon Oct 24 00:44:39.301 2016] This is an ack from gateway
+[Mon Oct 24 00:44:39.332 2016] This is an ack from gateway
+[Mon Oct 24 00:44:44.309 2016] This is an ack from gateway
+[Mon Oct 24 00:44:44.341 2016] This is an ack from gateway
+[Mon Oct 24 00:44:49.377 2016] This is an ack from gateway
+[Mon Oct 24 00:44:54.358 2016] This is an ack from gateway
+[Mon Oct 24 00:44:54.389 2016] This is an ack from gateway
+[Mon Oct 24 00:44:59.389 2016] This is an ack from gateway
+[Mon Oct 24 00:45:04.360 2016] This is an ack from gateway
+[Mon Oct 24 00:45:04.392 2016] This is an ack from gateway
+[Mon Oct 24 00:45:09.405 2016] This is an ack from gateway
+[Mon Oct 24 00:45:09.436 2016] This is an ack from gateway
+[Mon Oct 24 00:45:14.407 2016] This is an ack from gateway
+[Mon Oct 24 00:45:19.433 2016] This is an ack from gateway
+[Mon Oct 24 00:45:24.406 2016] This is an ack from gateway
+[Mon Oct 24 00:45:24.445 2016] This is an ack from gateway
+[Mon Oct 24 00:45:29.415 2016] This is an ack from gateway
+[Mon Oct 24 00:45:29.446 2016] This is an ack from gateway
+[Mon Oct 24 00:45:34.458 2016] This is an ack from gateway
+[Mon Oct 24 00:45:39.481 2016] This is an ack from gateway
+[Mon Oct 24 00:45:44.435 2016] This is an ack from gateway
+[Mon Oct 24 00:45:44.467 2016] This is an ack from gateway
+[Mon Oct 24 00:45:49.513 2016] This is an ack from gateway
+[Mon Oct 24 00:45:54.460 2016] This is an ack from gateway
+[Mon Oct 24 00:45:54.476 2016] This is an ack from gateway
+[Mon Oct 24 00:45:59.461 2016] This is an ack from gateway
+[Mon Oct 24 00:45:59.507 2016] This is an ack from gateway
+[Mon Oct 24 00:46:04.522 2016] This is an ack from gateway
+[Mon Oct 24 00:46:09.495 2016] This is an ack from gateway
+[Mon Oct 24 00:46:09.510 2016] This is an ack from gateway
+[Mon Oct 24 00:46:14.498 2016] This is an ack from gateway
+[Mon Oct 24 00:46:14.530 2016] This is an ack from gateway
+[Mon Oct 24 00:46:19.522 2016] This is an ack from gateway
+[Mon Oct 24 00:46:19.538 2016] This is an ack from gateway
+[Mon Oct 24 00:46:24.528 2016] This is an ack from gateway
+[Mon Oct 24 00:46:24.567 2016] This is an ack from gateway
+[Mon Oct 24 00:46:29.537 2016] This is an ack from gateway
+[Mon Oct 24 00:46:29.552 2016] This is an ack from gateway
+[Mon Oct 24 00:46:34.588 2016] This is an ack from gateway
+[Mon Oct 24 00:46:39.593 2016] This is an ack from gateway
+[Mon Oct 24 00:46:44.577 2016] This is an ack from gateway
+[Mon Oct 24 00:46:44.593 2016] This is an ack from gateway
+[Mon Oct 24 00:46:49.627 2016] This is an ack from gateway
+[Mon Oct 24 00:46:54.630 2016] This is an ack from gateway
+[Mon Oct 24 00:46:59.598 2016] This is an ack from gateway
+[Mon Oct 24 00:46:59.645 2016] This is an ack from gateway
+[Mon Oct 24 00:47:04.625 2016] This is an ack from gateway
+[Mon Oct 24 00:47:04.658 2016] This is an ack from gateway
+[Mon Oct 24 00:47:09.669 2016] This is an ack from gateway
+[Mon Oct 24 00:47:14.631 2016] This is an ack from gateway
+[Mon Oct 24 00:47:14.667 2016] This is an ack from gateway
+[Mon Oct 24 00:47:19.687 2016] This is an ack from gateway
+[Mon Oct 24 00:47:24.664 2016] This is an ack from gateway
+[Mon Oct 24 00:47:24.679 2016] This is an ack from gateway
+[Mon Oct 24 00:47:29.666 2016] This is an ack from gateway
+[Mon Oct 24 00:47:29.698 2016] This is an ack from gateway
+[Mon Oct 24 00:47:34.680 2016] This is an ack from gateway
+[Mon Oct 24 00:47:34.696 2016] This is an ack from gateway
+[Mon Oct 24 00:47:39.682 2016] This is an ack from gateway
+[Mon Oct 24 00:47:39.698 2016] This is an ack from gateway
+[Mon Oct 24 00:47:44.709 2016] This is an ack from gateway
+[Mon Oct 24 00:47:44.727 2016] This is an ack from gateway
+[Mon Oct 24 00:47:49.712 2016] This is an ack from gateway
+[Mon Oct 24 00:47:49.727 2016] This is an ack from gateway
+[Mon Oct 24 00:47:54.756 2016] This is an ack from gateway
+[Mon Oct 24 00:47:59.766 2016] This is an ack from gateway
+[Mon Oct 24 00:48:04.787 2016] This is an ack from gateway
+[Mon Oct 24 00:48:09.788 2016] This is an ack from gateway
+[Mon Oct 24 00:48:14.817 2016] This is an ack from gateway
+[Mon Oct 24 00:48:19.821 2016] This is an ack from gateway
+[Mon Oct 24 00:48:24.789 2016] This is an ack from gateway
+[Mon Oct 24 00:48:24.813 2016] This is an ack from gateway
+[Mon Oct 24 00:48:29.842 2016] This is an ack from gateway
+[Mon Oct 24 00:48:34.849 2016] This is an ack from gateway
+[Mon Oct 24 00:48:39.818 2016] This is an ack from gateway
+[Mon Oct 24 00:48:39.834 2016] This is an ack from gateway
+[Mon Oct 24 00:48:44.821 2016] This is an ack from gateway
+[Mon Oct 24 00:48:44.837 2016] This is an ack from gateway
+[Mon Oct 24 00:48:49.826 2016] This is an ack from gateway
+[Mon Oct 24 00:48:49.873 2016] This is an ack from gateway
+[Mon Oct 24 00:48:54.881 2016] This is an ack from gateway
+[Mon Oct 24 00:48:59.852 2016] This is an ack from gateway
+[Mon Oct 24 00:48:59.883 2016] This is an ack from gateway
+[Mon Oct 24 00:49:04.911 2016] This is an ack from gateway
+[Mon Oct 24 00:49:09.875 2016] This is an ack from gateway
+[Mon Oct 24 00:49:09.891 2016] This is an ack from gateway
+[Mon Oct 24 00:49:14.904 2016] This is an ack from gateway
+[Mon Oct 24 00:49:14.909 2016] This is an ack from gateway
+[Mon Oct 24 00:49:19.933 2016] This is an ack from gateway
+[Mon Oct 24 00:49:29.965 2016] This is an ack from gateway
+[Mon Oct 24 00:49:34.936 2016] This is an ack from gateway
+[Mon Oct 24 00:49:39.979 2016] This is an ack from gateway
+[Mon Oct 24 00:49:44.982 2016] This is an ack from gateway
+[Mon Oct 24 00:49:49.966 2016] This is an ack from gateway
+[Mon Oct 24 00:49:49.966 2016] This is an ack from gateway
+[Mon Oct 24 00:49:55.010 2016] This is an ack from gateway
+[Mon Oct 24 00:50:00.007 2016] This is an ack from gateway
+[Mon Oct 24 00:50:04.979 2016] This is an ack from gateway
+[Mon Oct 24 00:50:05.010 2016] This is an ack from gateway
+[Mon Oct 24 00:50:10.011 2016] This is an ack from gateway
+[Mon Oct 24 00:50:10.027 2016] This is an ack from gateway
+[Mon Oct 24 00:50:15.011 2016] This is an ack from gateway
+[Mon Oct 24 00:50:15.027 2016] This is an ack from gateway
+[Mon Oct 24 00:50:20.078 2016] This is an ack from gateway
+[Mon Oct 24 00:50:25.044 2016] This is an ack from gateway
+[Mon Oct 24 00:50:25.059 2016] This is an ack from gateway
+[Mon Oct 24 00:50:30.044 2016] This is an ack from gateway
+[Mon Oct 24 00:50:30.081 2016] This is an ack from gateway
+[Mon Oct 24 00:50:35.068 2016] This is an ack from gateway
+[Mon Oct 24 00:50:35.083 2016] This is an ack from gateway
+[Mon Oct 24 00:50:40.067 2016] This is an ack from gateway
+[Mon Oct 24 00:50:40.083 2016] This is an ack from gateway
+[Mon Oct 24 00:50:45.092 2016] This is an ack from gateway
+[Mon Oct 24 00:50:45.107 2016] This is an ack from gateway
+[Mon Oct 24 00:50:50.145 2016] This is an ack from gateway
+[Mon Oct 24 00:50:55.095 2016] This is an ack from gateway
+[Mon Oct 24 00:50:55.126 2016] This is an ack from gateway
+[Mon Oct 24 00:51:00.112 2016] This is an ack from gateway
+[Mon Oct 24 00:51:05.120 2016] This is an ack from gateway
+[Mon Oct 24 00:51:05.136 2016] This is an ack from gateway
+[Mon Oct 24 00:51:10.174 2016] This is an ack from gateway
+[Mon Oct 24 00:51:15.147 2016] This is an ack from gateway
+[Mon Oct 24 00:51:20.197 2016] This is an ack from gateway
+[Mon Oct 24 00:51:25.188 2016] This is an ack from gateway
+[Mon Oct 24 00:51:25.225 2016] This is an ack from gateway
+[Mon Oct 24 00:51:30.237 2016] This is an ack from gateway
+[Mon Oct 24 00:51:35.181 2016] This is an ack from gateway
+[Mon Oct 24 00:51:35.213 2016] This is an ack from gateway
+[Mon Oct 24 00:51:40.200 2016] This is an ack from gateway
+[Mon Oct 24 00:51:40.215 2016] This is an ack from gateway
+[Mon Oct 24 00:51:45.205 2016] This is an ack from gateway
+[Mon Oct 24 00:51:45.221 2016] This is an ack from gateway
+[Mon Oct 24 00:51:50.209 2016] This is an ack from gateway
+[Mon Oct 24 00:51:50.241 2016] This is an ack from gateway
+[Mon Oct 24 00:51:55.232 2016] This is an ack from gateway
+[Mon Oct 24 00:51:55.247 2016] This is an ack from gateway
+[Mon Oct 24 00:52:00.227 2016] This is an ack from gateway
+[Mon Oct 24 00:52:00.242 2016] This is an ack from gateway
+[Mon Oct 24 00:52:05.291 2016] This is an ack from gateway
+[Mon Oct 24 00:52:10.256 2016] This is an ack from gateway
+[Mon Oct 24 00:52:10.287 2016] This is an ack from gateway
+[Mon Oct 24 00:52:15.333 2016] This is an ack from gateway
+[Mon Oct 24 00:52:20.320 2016] This is an ack from gateway
+[Mon Oct 24 00:52:25.282 2016] This is an ack from gateway
+[Mon Oct 24 00:52:25.298 2016] This is an ack from gateway
+[Mon Oct 24 00:52:30.302 2016] This is an ack from gateway
+[Mon Oct 24 00:52:30.317 2016] This is an ack from gateway
+[Mon Oct 24 00:52:35.348 2016] This is an ack from gateway
+[Mon Oct 24 00:52:40.357 2016] This is an ack from gateway
+[Mon Oct 24 00:52:45.346 2016] This is an ack from gateway
+[Mon Oct 24 00:52:45.364 2016] This is an ack from gateway
+[Mon Oct 24 00:52:50.347 2016] This is an ack from gateway
+[Mon Oct 24 00:52:50.362 2016] This is an ack from gateway
+[Mon Oct 24 00:52:55.408 2016] This is an ack from gateway
+[Mon Oct 24 00:53:00.399 2016] This is an ack from gateway
+[Mon Oct 24 00:53:05.414 2016] This is an ack from gateway
+[Mon Oct 24 00:53:10.436 2016] This is an ack from gateway
+[Mon Oct 24 00:53:15.446 2016] This is an ack from gateway
+[Mon Oct 24 00:53:20.402 2016] This is an ack from gateway
+[Mon Oct 24 00:53:20.440 2016] This is an ack from gateway
+[Mon Oct 24 00:53:25.422 2016] This is an ack from gateway
+[Mon Oct 24 00:53:25.438 2016] This is an ack from gateway
+[Mon Oct 24 00:53:30.426 2016] This is an ack from gateway
+[Mon Oct 24 00:53:30.457 2016] This is an ack from gateway
+[Mon Oct 24 00:53:35.453 2016] This is an ack from gateway
+[Mon Oct 24 00:53:35.453 2016] This is an ack from gateway
+[Mon Oct 24 00:53:40.479 2016] This is an ack from gateway
+[Mon Oct 24 00:53:45.496 2016] This is an ack from gateway
+[Mon Oct 24 00:53:50.510 2016] This is an ack from gateway
+[Mon Oct 24 00:53:55.526 2016] This is an ack from gateway
+[Mon Oct 24 00:54:00.514 2016] This is an ack from gateway
+[Mon Oct 24 00:54:00.546 2016] This is an ack from gateway
+[Mon Oct 24 00:54:05.504 2016] This is an ack from gateway
+[Mon Oct 24 00:54:05.536 2016] This is an ack from gateway
+[Mon Oct 24 00:54:10.514 2016] This is an ack from gateway
+[Mon Oct 24 00:54:10.514 2016] This is an ack from gateway
+[Mon Oct 24 00:54:15.516 2016] This is an ack from gateway
+[Mon Oct 24 00:54:15.538 2016] This is an ack from gateway
+[Mon Oct 24 00:54:20.528 2016] This is an ack from gateway
+[Mon Oct 24 00:54:20.580 2016] This is an ack from gateway
+[Mon Oct 24 00:54:25.537 2016] This is an ack from gateway
+[Mon Oct 24 00:54:25.575 2016] This is an ack from gateway
+[Mon Oct 24 00:54:30.564 2016] This is an ack from gateway
+[Mon Oct 24 00:54:30.580 2016] This is an ack from gateway
+[Mon Oct 24 00:54:35.561 2016] This is an ack from gateway
+[Mon Oct 24 00:54:35.592 2016] This is an ack from gateway
+[Mon Oct 24 00:54:40.618 2016] This is an ack from gateway
+[Mon Oct 24 00:54:45.644 2016] This is an ack from gateway
+[Mon Oct 24 00:54:50.642 2016] This is an ack from gateway
+[Mon Oct 24 00:54:55.649 2016] This is an ack from gateway
+[Mon Oct 24 00:54:57.222 2016] 12:54:44am: Checking periodic sensor data.
+[Mon Oct 24 00:54:57.273 2016] Sensor values:
+[Mon Oct 24 00:54:57.273 2016] A0 = 909
+[Mon Oct 24 00:54:57.273 2016] A1 = 919
+[Mon Oct 24 00:54:57.273 2016] A2 = 895
+[Mon Oct 24 00:54:57.273 2016] Bowl water level: Empty
+[Mon Oct 24 00:54:57.273 2016] 12:54:44am: Starting Motor
+[Mon Oct 24 00:54:57.273 2016] Bowl filled 1 time(s) today.
+[Mon Oct 24 00:54:57.273 2016] This is an ack from gateway
+[Mon Oct 24 00:54:57.273 2016] 12:54:44am: Incoming change for sensor:1, New status: 1
+[Mon Oct 24 00:55:00.609 2016] Sensor values:
+[Mon Oct 24 00:55:00.624 2016] A0 = 873
+[Mon Oct 24 00:55:00.624 2016] A1 = 919
+[Mon Oct 24 00:55:00.624 2016] A2 = 897
+[Mon Oct 24 00:55:00.624 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:00.624 2016] This is an ack from gateway
+[Mon Oct 24 00:55:00.656 2016] This is an ack from gateway
+[Mon Oct 24 00:55:05.637 2016] Sensor values:
+[Mon Oct 24 00:55:05.637 2016] A0 = 924
+[Mon Oct 24 00:55:05.637 2016] A1 = 858
+[Mon Oct 24 00:55:05.637 2016] A2 = 920
+[Mon Oct 24 00:55:05.637 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:05.652 2016] This is an ack from gateway
+[Mon Oct 24 00:55:10.660 2016] Sensor values:
+[Mon Oct 24 00:55:10.660 2016] A0 = 940
+[Mon Oct 24 00:55:10.660 2016] A1 = 908
+[Mon Oct 24 00:55:10.660 2016] A2 = 914
+[Mon Oct 24 00:55:10.660 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:10.660 2016] This is an ack from gateway
+[Mon Oct 24 00:55:10.691 2016] This is an ack from gateway
+[Mon Oct 24 00:55:15.666 2016] Sensor values:
+[Mon Oct 24 00:55:15.666 2016] A0 = 866
+[Mon Oct 24 00:55:15.666 2016] A1 = 884
+[Mon Oct 24 00:55:15.666 2016] A2 = 858
+[Mon Oct 24 00:55:15.666 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:15.682 2016] This is an ack from gateway
+[Mon Oct 24 00:55:20.655 2016] Sensor values:
+[Mon Oct 24 00:55:20.655 2016] A0 = 900
+[Mon Oct 24 00:55:20.671 2016] A1 = 904
+[Mon Oct 24 00:55:20.671 2016] A2 = 938
+[Mon Oct 24 00:55:20.671 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:25.692 2016] Sensor values:
+[Mon Oct 24 00:55:25.692 2016] A0 = 913
+[Mon Oct 24 00:55:25.692 2016] A1 = 912
+[Mon Oct 24 00:55:25.692 2016] A2 = 915
+[Mon Oct 24 00:55:25.692 2016] Bowl water level: Empty
+[Mon Oct 24 00:55:30.696 2016] Sensor values:
+[Mon Oct 24 00:55:30.696 2016] A0 = 116
+[Mon Oct 24 00:55:30.696 2016] A1 = 894
+[Mon Oct 24 00:55:30.696 2016] A2 = 887
+[Mon Oct 24 00:55:30.696 2016] Bowl water level: Low
+[Mon Oct 24 00:55:35.701 2016] Sensor values:
+[Mon Oct 24 00:55:35.701 2016] A0 = 80
+[Mon Oct 24 00:55:35.701 2016] A1 = 904
+[Mon Oct 24 00:55:35.701 2016] A2 = 911
+[Mon Oct 24 00:55:35.701 2016] Bowl water level: Low
+[Mon Oct 24 00:55:40.715 2016] Sensor values:
+[Mon Oct 24 00:55:40.715 2016] A0 = 95
+[Mon Oct 24 00:55:40.715 2016] A1 = 897
+[Mon Oct 24 00:55:40.715 2016] A2 = 937
+[Mon Oct 24 00:55:40.715 2016] Bowl water level: Low
+[Mon Oct 24 00:55:45.704 2016] Sensor values:
+[Mon Oct 24 00:55:45.704 2016] A0 = 84
+[Mon Oct 24 00:55:45.720 2016] A1 = 913
+[Mon Oct 24 00:55:45.720 2016] A2 = 885
+[Mon Oct 24 00:55:45.720 2016] Bowl water level: Low
+[Mon Oct 24 00:55:50.731 2016] Sensor values:
+[Mon Oct 24 00:55:50.731 2016] A0 = 93
+[Mon Oct 24 00:55:50.731 2016] A1 = 924
+[Mon Oct 24 00:55:50.731 2016] A2 = 897
+[Mon Oct 24 00:55:50.731 2016] Bowl water level: Low
+[Mon Oct 24 00:55:55.756 2016] Sensor values:
+[Mon Oct 24 00:55:55.756 2016] A0 = 89
+[Mon Oct 24 00:55:55.756 2016] A1 = 900
+[Mon Oct 24 00:55:55.756 2016] A2 = 908
+[Mon Oct 24 00:55:55.756 2016] Bowl water level: Low
+[Mon Oct 24 00:56:00.761 2016] Sensor values:
+[Mon Oct 24 00:56:00.761 2016] A0 = 28
+[Mon Oct 24 00:56:00.761 2016] A1 = 879
+[Mon Oct 24 00:56:00.761 2016] A2 = 916
+[Mon Oct 24 00:56:00.761 2016] Bowl water level: Low
+[Mon Oct 24 00:56:05.765 2016] Sensor values:
+[Mon Oct 24 00:56:05.767 2016] A0 = 91
+[Mon Oct 24 00:56:05.767 2016] A1 = 889
+[Mon Oct 24 00:56:05.767 2016] A2 = 900
+[Mon Oct 24 00:56:05.767 2016] Bowl water level: Low
+[Mon Oct 24 00:56:10.785 2016] Sensor values:
+[Mon Oct 24 00:56:10.785 2016] A0 = 80
+[Mon Oct 24 00:56:10.785 2016] A1 = 910
+[Mon Oct 24 00:56:10.785 2016] A2 = 914
+[Mon Oct 24 00:56:10.785 2016] Bowl water level: Low
+[Mon Oct 24 00:56:15.786 2016] Sensor values:
+[Mon Oct 24 00:56:15.786 2016] A0 = 95
+[Mon Oct 24 00:56:15.786 2016] A1 = 872
+[Mon Oct 24 00:56:15.786 2016] A2 = 906
+[Mon Oct 24 00:56:15.786 2016] Bowl water level: Low
+[Mon Oct 24 00:56:20.802 2016] Sensor values:
+[Mon Oct 24 00:56:20.802 2016] A0 = 73
+[Mon Oct 24 00:56:20.802 2016] A1 = 906
+[Mon Oct 24 00:56:20.802 2016] A2 = 886
+[Mon Oct 24 00:56:20.802 2016] Bowl water level: Low
+[Mon Oct 24 00:56:25.821 2016] Sensor values:
+[Mon Oct 24 00:56:25.821 2016] A0 = 84
+[Mon Oct 24 00:56:25.821 2016] A1 = 931
+[Mon Oct 24 00:56:25.821 2016] A2 = 911
+[Mon Oct 24 00:56:25.821 2016] Bowl water level: Low
+[Mon Oct 24 00:56:30.831 2016] Sensor values:
+[Mon Oct 24 00:56:30.831 2016] A0 = 98
+[Mon Oct 24 00:56:30.831 2016] A1 = 905
+[Mon Oct 24 00:56:30.831 2016] A2 = 919
+[Mon Oct 24 00:56:30.831 2016] Bowl water level: Low
+[Mon Oct 24 00:56:35.829 2016] Sensor values:
+[Mon Oct 24 00:56:35.829 2016] A0 = 150
+[Mon Oct 24 00:56:35.829 2016] A1 = 903
+[Mon Oct 24 00:56:35.829 2016] A2 = 901
+[Mon Oct 24 00:56:35.829 2016] Bowl water level: Low
+[Mon Oct 24 00:56:40.853 2016] Sensor values:
+[Mon Oct 24 00:56:40.853 2016] A0 = 89
+[Mon Oct 24 00:56:40.853 2016] A1 = 914
+[Mon Oct 24 00:56:40.853 2016] A2 = 897
+[Mon Oct 24 00:56:40.853 2016] Bowl water level: Low
+[Mon Oct 24 00:56:45.866 2016] Sensor values:
+[Mon Oct 24 00:56:45.866 2016] A0 = 74
+[Mon Oct 24 00:56:45.866 2016] A1 = 904
+[Mon Oct 24 00:56:45.866 2016] A2 = 909
+[Mon Oct 24 00:56:45.866 2016] Bowl water level: Low
+[Mon Oct 24 00:56:50.876 2016] Sensor values:
+[Mon Oct 24 00:56:50.876 2016] A0 = 95
+[Mon Oct 24 00:56:50.876 2016] A1 = 883
+[Mon Oct 24 00:56:50.876 2016] A2 = 932
+[Mon Oct 24 00:56:50.876 2016] Bowl water level: Low
+[Mon Oct 24 00:56:55.882 2016] Sensor values:
+[Mon Oct 24 00:56:55.882 2016] A0 = 85
+[Mon Oct 24 00:56:55.882 2016] A1 = 853
+[Mon Oct 24 00:56:55.882 2016] A2 = 889
+[Mon Oct 24 00:56:55.882 2016] Bowl water level: Low
+[Mon Oct 24 00:57:00.894 2016] Sensor values:
+[Mon Oct 24 00:57:00.894 2016] A0 = 85
+[Mon Oct 24 00:57:00.894 2016] A1 = 905
+[Mon Oct 24 00:57:00.894 2016] A2 = 900
+[Mon Oct 24 00:57:00.894 2016] Bowl water level: Low
+[Mon Oct 24 00:57:05.880 2016] Sensor values:
+[Mon Oct 24 00:57:05.880 2016] A0 = 91
+[Mon Oct 24 00:57:05.896 2016] A1 = 873
+[Mon Oct 24 00:57:05.896 2016] A2 = 912
+[Mon Oct 24 00:57:05.896 2016] Bowl water level: Low
+[Mon Oct 24 00:57:10.917 2016] Sensor values:
+[Mon Oct 24 00:57:10.917 2016] A0 = 89
+[Mon Oct 24 00:57:10.917 2016] A1 = 868
+[Mon Oct 24 00:57:10.917 2016] A2 = 890
+[Mon Oct 24 00:57:10.917 2016] Bowl water level: Low
+[Mon Oct 24 00:57:15.925 2016] Sensor values:
+[Mon Oct 24 00:57:15.925 2016] A0 = 82
+[Mon Oct 24 00:57:15.925 2016] A1 = 882
+[Mon Oct 24 00:57:15.925 2016] A2 = 910
+[Mon Oct 24 00:57:15.925 2016] Bowl water level: Low
+[Mon Oct 24 00:57:20.939 2016] Sensor values:
+[Mon Oct 24 00:57:20.939 2016] A0 = 92
+[Mon Oct 24 00:57:20.939 2016] A1 = 869
+[Mon Oct 24 00:57:20.939 2016] A2 = 920
+[Mon Oct 24 00:57:20.939 2016] Bowl water level: Low
+[Mon Oct 24 00:57:25.940 2016] Sensor values:
+[Mon Oct 24 00:57:25.940 2016] A0 = 118
+[Mon Oct 24 00:57:25.940 2016] A1 = 833
+[Mon Oct 24 00:57:25.940 2016] A2 = 914
+[Mon Oct 24 00:57:25.940 2016] Bowl water level: Low
+[Mon Oct 24 00:57:30.936 2016] Sensor values:
+[Mon Oct 24 00:57:30.954 2016] A0 = 93
+[Mon Oct 24 00:57:30.954 2016] A1 = 844
+[Mon Oct 24 00:57:30.954 2016] A2 = 906
+[Mon Oct 24 00:57:30.954 2016] Bowl water level: Low
+[Mon Oct 24 00:57:35.967 2016] Sensor values:
+[Mon Oct 24 00:57:35.967 2016] A0 = 82
+[Mon Oct 24 00:57:35.967 2016] A1 = 818
+[Mon Oct 24 00:57:35.967 2016] A2 = 916
+[Mon Oct 24 00:57:35.967 2016] Bowl water level: Low
+[Mon Oct 24 00:57:40.970 2016] Sensor values:
+[Mon Oct 24 00:57:40.970 2016] A0 = 83
+[Mon Oct 24 00:57:40.970 2016] A1 = 803
+[Mon Oct 24 00:57:40.970 2016] A2 = 908
+[Mon Oct 24 00:57:40.970 2016] Bowl water level: Low
+[Mon Oct 24 00:57:45.991 2016] Sensor values:
+[Mon Oct 24 00:57:45.991 2016] A0 = 95
+[Mon Oct 24 00:57:45.991 2016] A1 = 775
+[Mon Oct 24 00:57:45.991 2016] A2 = 906
+[Mon Oct 24 00:57:45.991 2016] Bowl water level: Low
+[Mon Oct 24 00:57:50.999 2016] Sensor values:
+[Mon Oct 24 00:57:50.999 2016] A0 = 83
+[Mon Oct 24 00:57:50.999 2016] A1 = 615
+[Mon Oct 24 00:57:50.999 2016] A2 = 899
+[Mon Oct 24 00:57:50.999 2016] Bowl water level: Low
+[Mon Oct 24 00:57:56.015 2016] Sensor values:
+[Mon Oct 24 00:57:56.015 2016] A0 = 95
+[Mon Oct 24 00:57:56.015 2016] A1 = 394
+[Mon Oct 24 00:57:56.015 2016] A2 = 914
+[Mon Oct 24 00:57:56.015 2016] Bowl water level: Medium
+[Mon Oct 24 00:57:57.602 2016] 12:57:44am: Fill timer reached.  Stopping motor.
+[Mon Oct 24 00:57:57.602 2016] 12:57:44am: Saving the following values to EEPROM: 
+[Mon Oct 24 00:57:57.602 2016] Fill Time: 180
+[Mon Oct 24 00:57:57.602 2016] 1, 0, 180, 10, 24
+[Mon Oct 24 00:58:27.646 2016] 12:58:14am: Checking periodic sensor data.
+[Mon Oct 24 00:58:27.678 2016] Sensor values:
+[Mon Oct 24 00:58:27.678 2016] A0 = 77
+[Mon Oct 24 00:58:27.678 2016] A1 = 190
+[Mon Oct 24 00:58:27.678 2016] A2 = 919
+[Mon Oct 24 00:58:27.678 2016] Bowl water level: Medium
+[Mon Oct 24 00:58:57.714 2016] 12:58:44am: Checking periodic sensor data.
+[Mon Oct 24 00:58:57.743 2016] Sensor values:
+[Mon Oct 24 00:58:57.743 2016] A0 = 76
+[Mon Oct 24 00:58:57.743 2016] A1 = 137
+[Mon Oct 24 00:58:57.743 2016] A2 = 902
+[Mon Oct 24 00:58:57.743 2016] Bowl water level: Medium
+[Mon Oct 24 00:59:27.764 2016] 12:59:14am: Checking periodic sensor data.
+[Mon Oct 24 00:59:27.796 2016] Sensor values:
+[Mon Oct 24 00:59:27.796 2016] A0 = 70
+[Mon Oct 24 00:59:27.796 2016] A1 = 141
+[Mon Oct 24 00:59:27.796 2016] A2 = 923
+[Mon Oct 24 00:59:27.796 2016] Bowl water level: Medium
+[Mon Oct 24 00:59:57.842 2016] 12:59:44am: Checking periodic sensor data.
+[Mon Oct 24 00:59:57.873 2016] Sensor values:
+[Mon Oct 24 00:59:57.873 2016] A0 = 69
+[Mon Oct 24 00:59:57.873 2016] A1 = 133
+[Mon Oct 24 00:59:57.873 2016] A2 = 920
+[Mon Oct 24 00:59:57.873 2016] Bowl water level: Medium
+[Mon Oct 24 01:00:27.916 2016] 01:00:14am: Checking periodic sensor data.
+[Mon Oct 24 01:00:27.931 2016] Sensor values:
+[Mon Oct 24 01:00:27.931 2016] A0 = 68
+[Mon Oct 24 01:00:27.931 2016] A1 = 141
+[Mon Oct 24 01:00:27.931 2016] A2 = 912
+[Mon Oct 24 01:00:27.931 2016] Bowl water level: Medium
+[Mon Oct 24 01:00:57.953 2016] 01:00:44am: Checking periodic sensor data.
+[Mon Oct 24 01:00:58.000 2016] Sensor values:
+[Mon Oct 24 01:00:58.000 2016] A0 = 77
+[Mon Oct 24 01:00:58.000 2016] A1 = 133
+[Mon Oct 24 01:00:58.000 2016] A2 = 932
+[Mon Oct 24 01:00:58.000 2016] Bowl water level: Medium
+[Mon Oct 24 01:01:28.029 2016] 01:01:14am: Checking periodic sensor data.
+[Mon Oct 24 01:01:28.067 2016] Sensor values:
+[Mon Oct 24 01:01:28.067 2016] A0 = 79
+[Mon Oct 24 01:01:28.067 2016] A1 = 139
+[Mon Oct 24 01:01:28.067 2016] A2 = 899
+[Mon Oct 24 01:01:28.067 2016] Bowl water level: Medium
+[Mon Oct 24 01:01:58.098 2016] 01:01:44am: Checking periodic sensor data.
+[Mon Oct 24 01:01:58.098 2016] Sensor values:
+[Mon Oct 24 01:01:58.130 2016] A0 = 81
+[Mon Oct 24 01:01:58.130 2016] A1 = 139
+[Mon Oct 24 01:01:58.130 2016] A2 = 904
+[Mon Oct 24 01:01:58.130 2016] Bowl water level: Medium
+[Mon Oct 24 01:02:28.164 2016] 01:02:14am: Checking periodic sensor data.
+[Mon Oct 24 01:02:28.195 2016] Sensor values:
+[Mon Oct 24 01:02:28.195 2016] A0 = 83
+[Mon Oct 24 01:02:28.195 2016] A1 = 133
+[Mon Oct 24 01:02:28.195 2016] A2 = 924
+[Mon Oct 24 01:02:28.195 2016] Bowl water level: Medium
+[Mon Oct 24 01:02:58.215 2016] 01:02:44am: Checking periodic sensor data.
+[Mon Oct 24 01:02:58.232 2016] Sensor values:
+[Mon Oct 24 01:02:58.247 2016] A0 = 79
+[Mon Oct 24 01:02:58.247 2016] A1 = 129
+[Mon Oct 24 01:02:58.247 2016] A2 = 932
+[Mon Oct 24 01:02:58.247 2016] Bowl water level: Medium
+[Mon Oct 24 01:03:28.297 2016] 01:03:14am: Checking periodic sensor data.
+[Mon Oct 24 01:03:28.312 2016] Sensor values:
+[Mon Oct 24 01:03:28.312 2016] A0 = 77
+[Mon Oct 24 01:03:28.312 2016] A1 = 139
+[Mon Oct 24 01:03:28.312 2016] A2 = 918
+[Mon Oct 24 01:03:28.312 2016] Bowl water level: Medium
+[Mon Oct 24 01:03:58.347 2016] 01:03:44am: Checking periodic sensor data.
+[Mon Oct 24 01:03:58.388 2016] Sensor values:
+[Mon Oct 24 01:03:58.388 2016] A0 = 73
+[Mon Oct 24 01:03:58.388 2016] A1 = 130
+[Mon Oct 24 01:03:58.388 2016] A2 = 901
+[Mon Oct 24 01:03:58.388 2016] Bowl water level: Medium
+[Mon Oct 24 01:04:28.408 2016] 01:04:14am: Checking periodic sensor data.
+[Mon Oct 24 01:04:28.445 2016] Sensor values:
+[Mon Oct 24 01:04:28.445 2016] A0 = 77
+[Mon Oct 24 01:04:28.445 2016] A1 = 136
+[Mon Oct 24 01:04:28.445 2016] A2 = 899
+[Mon Oct 24 01:04:28.445 2016] Bowl water level: Medium
+[Mon Oct 24 01:04:58.480 2016] 01:04:44am: Checking periodic sensor data.
+[Mon Oct 24 01:04:58.517 2016] Sensor values:
+[Mon Oct 24 01:04:58.517 2016] A0 = 85
+[Mon Oct 24 01:04:58.517 2016] A1 = 137
+[Mon Oct 24 01:04:58.517 2016] A2 = 918
+[Mon Oct 24 01:04:58.517 2016] Bowl water level: Medium
+[Mon Oct 24 01:05:28.539 2016] 01:05:14am: Checking periodic sensor data.
+[Mon Oct 24 01:05:28.555 2016] Sensor values:
+[Mon Oct 24 01:05:28.571 2016] A0 = 80
+[Mon Oct 24 01:05:28.571 2016] A1 = 139
+[Mon Oct 24 01:05:28.571 2016] A2 = 908
+[Mon Oct 24 01:05:28.571 2016] Bowl water level: Medium
+[Mon Oct 24 01:05:58.602 2016] 01:05:44am: Checking periodic sensor data.
+[Mon Oct 24 01:05:58.639 2016] Sensor values:
+[Mon Oct 24 01:05:58.639 2016] A0 = 75
+[Mon Oct 24 01:05:58.639 2016] A1 = 140
+[Mon Oct 24 01:05:58.639 2016] A2 = 911
+[Mon Oct 24 01:05:58.639 2016] Bowl water level: Medium
+[Mon Oct 24 01:06:28.666 2016] 01:06:14am: Checking periodic sensor data.
+[Mon Oct 24 01:06:28.689 2016] Sensor values:
+[Mon Oct 24 01:06:28.705 2016] A0 = 74
+[Mon Oct 24 01:06:28.705 2016] A1 = 136
+[Mon Oct 24 01:06:28.705 2016] A2 = 898
+[Mon Oct 24 01:06:28.705 2016] Bowl water level: Medium
+[Mon Oct 24 01:06:58.736 2016] 01:06:44am: Checking periodic sensor data.
+[Mon Oct 24 01:06:58.767 2016] Sensor values:
+[Mon Oct 24 01:06:58.767 2016] A0 = 93
+[Mon Oct 24 01:06:58.767 2016] A1 = 200
+[Mon Oct 24 01:06:58.767 2016] A2 = 907
+[Mon Oct 24 01:06:58.767 2016] Bowl water level: Medium
+[Mon Oct 24 01:07:28.780 2016] 01:07:14am: Checking periodic sensor data.
+[Mon Oct 24 01:07:28.811 2016] Sensor values:
+[Mon Oct 24 01:07:28.827 2016] A0 = 387
+[Mon Oct 24 01:07:28.827 2016] A1 = 747
+[Mon Oct 24 01:07:28.827 2016] A2 = 921
+[Mon Oct 24 01:07:28.827 2016] Bowl water level: Low
+[Mon Oct 24 01:07:58.858 2016] 01:07:44am: Checking periodic sensor data.
+[Mon Oct 24 01:07:58.876 2016] Sensor values:
+[Mon Oct 24 01:07:58.893 2016] A0 = 601
+[Mon Oct 24 01:07:58.893 2016] A1 = 574
+[Mon Oct 24 01:07:58.893 2016] A2 = 910
+[Mon Oct 24 01:07:58.893 2016] Bowl water level: Empty
+[Mon Oct 24 01:08:28.922 2016] 01:08:14am: Checking periodic sensor data.
+[Mon Oct 24 01:08:28.953 2016] Sensor values:
+[Mon Oct 24 01:08:28.953 2016] A0 = 733
+[Mon Oct 24 01:08:28.953 2016] A1 = 822
+[Mon Oct 24 01:08:28.953 2016] A2 = 895
+[Mon Oct 24 01:08:28.953 2016] Bowl water level: Empty
+[Mon Oct 24 01:08:28.953 2016] 01:08:14am: Bowl Empty, starting timeout.
+[Mon Oct 24 01:23:49.778 2016] Requesting time from Gateway...
+[Mon Oct 24 02:23:59.430 2016] Requesting time from Gateway...
+[Mon Oct 24 02:38:40.432 2016] 02:38:14am: Checking periodic sensor data.
+[Mon Oct 24 02:38:40.460 2016] Sensor values:
+[Mon Oct 24 02:38:40.460 2016] A0 = 897
+[Mon Oct 24 02:38:40.460 2016] A1 = 906
+[Mon Oct 24 02:38:40.460 2016] A2 = 929
+[Mon Oct 24 02:38:40.460 2016] Bowl water level: Empty
+[Mon Oct 24 02:38:40.460 2016] 02:38:14am: Starting Motor
+[Mon Oct 24 02:38:40.460 2016] Bowl filled 2 time(s) today.
+[Mon Oct 24 02:38:41.938 2016] Sensor values:
+[Mon Oct 24 02:38:41.938 2016] A0 = 902
+[Mon Oct 24 02:38:41.938 2016] A1 = 916
+[Mon Oct 24 02:38:41.938 2016] A2 = 920
+[Mon Oct 24 02:38:41.938 2016] Bowl water level: Empty
+[Mon Oct 24 02:38:46.942 2016] Sensor values:
+[Mon Oct 24 02:38:46.942 2016] A0 = 909
+[Mon Oct 24 02:38:46.942 2016] A1 = 899
+[Mon Oct 24 02:38:46.942 2016] A2 = 905
+[Mon Oct 24 02:38:46.942 2016] Bowl water level: Empty
+[Mon Oct 24 02:38:51.962 2016] Sensor values:
+[Mon Oct 24 02:38:51.962 2016] A0 = 893
+[Mon Oct 24 02:38:51.962 2016] A1 = 950
+[Mon Oct 24 02:38:51.962 2016] A2 = 895
+[Mon Oct 24 02:38:51.962 2016] Bowl water level: Empty
+[Mon Oct 24 02:38:56.950 2016] Sensor values:
+[Mon Oct 24 02:38:56.950 2016] A0 = 930
+[Mon Oct 24 02:38:56.984 2016] A1 = 894
+[Mon Oct 24 02:38:56.984 2016] A2 = 915
+[Mon Oct 24 02:38:56.984 2016] Bowl water level: Empty
+[Mon Oct 24 02:39:01.981 2016] Sensor values:
+[Mon Oct 24 02:39:01.981 2016] A0 = 887
+[Mon Oct 24 02:39:01.981 2016] A1 = 908
+[Mon Oct 24 02:39:01.981 2016] A2 = 908
+[Mon Oct 24 02:39:01.981 2016] Bowl water level: Empty
+[Mon Oct 24 02:39:06.997 2016] Sensor values:
+[Mon Oct 24 02:39:06.997 2016] A0 = 888
+[Mon Oct 24 02:39:06.997 2016] A1 = 878
+[Mon Oct 24 02:39:06.997 2016] A2 = 911
+[Mon Oct 24 02:39:06.997 2016] Bowl water level: Empty
+[Mon Oct 24 02:39:12.011 2016] Sensor values:
+[Mon Oct 24 02:39:12.011 2016] A0 = 115
+[Mon Oct 24 02:39:12.011 2016] A1 = 932
+[Mon Oct 24 02:39:12.011 2016] A2 = 913
+[Mon Oct 24 02:39:12.011 2016] Bowl water level: Low
+[Mon Oct 24 02:39:17.011 2016] Sensor values:
+[Mon Oct 24 02:39:17.011 2016] A0 = 98
+[Mon Oct 24 02:39:17.011 2016] A1 = 911
+[Mon Oct 24 02:39:17.011 2016] A2 = 907
+[Mon Oct 24 02:39:17.011 2016] Bowl water level: Low
+[Mon Oct 24 02:39:22.018 2016] Sensor values:
+[Mon Oct 24 02:39:22.018 2016] A0 = 86
+[Mon Oct 24 02:39:22.018 2016] A1 = 897
+[Mon Oct 24 02:39:22.018 2016] A2 = 886
+[Mon Oct 24 02:39:22.018 2016] Bowl water level: Low
+[Mon Oct 24 02:39:27.038 2016] Sensor values:
+[Mon Oct 24 02:39:27.038 2016] A0 = 96
+[Mon Oct 24 02:39:27.038 2016] A1 = 907
+[Mon Oct 24 02:39:27.038 2016] A2 = 907
+[Mon Oct 24 02:39:27.038 2016] Bowl water level: Low
+[Mon Oct 24 02:39:32.041 2016] Sensor values:
+[Mon Oct 24 02:39:32.041 2016] A0 = 85
+[Mon Oct 24 02:39:32.041 2016] A1 = 910
+[Mon Oct 24 02:39:32.041 2016] A2 = 901
+[Mon Oct 24 02:39:32.041 2016] Bowl water level: Low
+[Mon Oct 24 02:39:37.058 2016] Sensor values:
+[Mon Oct 24 02:39:37.058 2016] A0 = 84
+[Mon Oct 24 02:39:37.058 2016] A1 = 917
+[Mon Oct 24 02:39:37.058 2016] A2 = 905
+[Mon Oct 24 02:39:37.058 2016] Bowl water level: Low
+[Mon Oct 24 02:39:42.066 2016] Sensor values:
+[Mon Oct 24 02:39:42.066 2016] A0 = 98
+[Mon Oct 24 02:39:42.066 2016] A1 = 898
+[Mon Oct 24 02:39:42.066 2016] A2 = 897
+[Mon Oct 24 02:39:42.066 2016] Bowl water level: Low
+[Mon Oct 24 02:39:47.077 2016] Sensor values:
+[Mon Oct 24 02:39:47.077 2016] A0 = 95
+[Mon Oct 24 02:39:47.077 2016] A1 = 903
+[Mon Oct 24 02:39:47.077 2016] A2 = 905
+[Mon Oct 24 02:39:47.077 2016] Bowl water level: Low
+[Mon Oct 24 02:39:52.086 2016] Sensor values:
+[Mon Oct 24 02:39:52.086 2016] A0 = 104
+[Mon Oct 24 02:39:52.086 2016] A1 = 882
+[Mon Oct 24 02:39:52.086 2016] A2 = 917
+[Mon Oct 24 02:39:52.086 2016] Bowl water level: Low
+[Mon Oct 24 02:39:57.105 2016] Sensor values:
+[Mon Oct 24 02:39:57.105 2016] A0 = 92
+[Mon Oct 24 02:39:57.105 2016] A1 = 931
+[Mon Oct 24 02:39:57.105 2016] A2 = 909
+[Mon Oct 24 02:39:57.105 2016] Bowl water level: Low
+[Mon Oct 24 02:40:02.118 2016] Sensor values:
+[Mon Oct 24 02:40:02.118 2016] A0 = 102
+[Mon Oct 24 02:40:02.118 2016] A1 = 882
+[Mon Oct 24 02:40:02.118 2016] A2 = 927
+[Mon Oct 24 02:40:02.118 2016] Bowl water level: Low
+[Mon Oct 24 02:40:07.120 2016] Sensor values:
+[Mon Oct 24 02:40:07.120 2016] A0 = 88
+[Mon Oct 24 02:40:07.120 2016] A1 = 930
+[Mon Oct 24 02:40:07.120 2016] A2 = 903
+[Mon Oct 24 02:40:07.120 2016] Bowl water level: Low
+[Mon Oct 24 02:40:12.129 2016] Sensor values:
+[Mon Oct 24 02:40:12.129 2016] A0 = 90
+[Mon Oct 24 02:40:12.129 2016] A1 = 875
+[Mon Oct 24 02:40:12.129 2016] A2 = 912
+[Mon Oct 24 02:40:12.129 2016] Bowl water level: Low
+[Mon Oct 24 02:40:17.149 2016] Sensor values:
+[Mon Oct 24 02:40:17.149 2016] A0 = 78
+[Mon Oct 24 02:40:17.149 2016] A1 = 931
+[Mon Oct 24 02:40:17.149 2016] A2 = 896
+[Mon Oct 24 02:40:17.149 2016] Bowl water level: Low
+[Mon Oct 24 02:40:22.160 2016] Sensor values:
+[Mon Oct 24 02:40:22.160 2016] A0 = 92
+[Mon Oct 24 02:40:22.160 2016] A1 = 915
+[Mon Oct 24 02:40:22.160 2016] A2 = 919
+[Mon Oct 24 02:40:22.160 2016] Bowl water level: Low
+[Mon Oct 24 02:40:27.164 2016] Sensor values:
+[Mon Oct 24 02:40:27.164 2016] A0 = 90
+[Mon Oct 24 02:40:27.164 2016] A1 = 912
+[Mon Oct 24 02:40:27.164 2016] A2 = 905
+[Mon Oct 24 02:40:27.164 2016] Bowl water level: Low
+[Mon Oct 24 02:40:32.179 2016] Sensor values:
+[Mon Oct 24 02:40:32.179 2016] A0 = 79
+[Mon Oct 24 02:40:32.179 2016] A1 = 918
+[Mon Oct 24 02:40:32.179 2016] A2 = 899
+[Mon Oct 24 02:40:32.179 2016] Bowl water level: Low
+[Mon Oct 24 02:40:37.187 2016] Sensor values:
+[Mon Oct 24 02:40:37.187 2016] A0 = 100
+[Mon Oct 24 02:40:37.187 2016] A1 = 891
+[Mon Oct 24 02:40:37.187 2016] A2 = 907
+[Mon Oct 24 02:40:37.187 2016] Bowl water level: Low
+[Mon Oct 24 02:40:42.198 2016] Sensor values:
+[Mon Oct 24 02:40:42.198 2016] A0 = 88
+[Mon Oct 24 02:40:42.198 2016] A1 = 891
+[Mon Oct 24 02:40:42.198 2016] A2 = 890
+[Mon Oct 24 02:40:42.198 2016] Bowl water level: Low
+[Mon Oct 24 02:40:47.210 2016] Sensor values:
+[Mon Oct 24 02:40:47.210 2016] A0 = 95
+[Mon Oct 24 02:40:47.210 2016] A1 = 914
+[Mon Oct 24 02:40:47.210 2016] A2 = 911
+[Mon Oct 24 02:40:47.210 2016] Bowl water level: Low
+[Mon Oct 24 02:40:52.213 2016] Sensor values:
+[Mon Oct 24 02:40:52.213 2016] A0 = 92
+[Mon Oct 24 02:40:52.213 2016] A1 = 892
+[Mon Oct 24 02:40:52.213 2016] A2 = 952
+[Mon Oct 24 02:40:52.213 2016] Bowl water level: Low
+[Mon Oct 24 02:40:57.247 2016] Sensor values:
+[Mon Oct 24 02:40:57.247 2016] A0 = 94
+[Mon Oct 24 02:40:57.247 2016] A1 = 903
+[Mon Oct 24 02:40:57.247 2016] A2 = 900
+[Mon Oct 24 02:40:57.247 2016] Bowl water level: Low
+[Mon Oct 24 02:41:02.216 2016] Sensor values:
+[Mon Oct 24 02:41:02.216 2016] A0 = 83
+[Mon Oct 24 02:41:02.232 2016] A1 = 909
+[Mon Oct 24 02:41:02.232 2016] A2 = 901
+[Mon Oct 24 02:41:02.232 2016] Bowl water level: Low
+[Mon Oct 24 02:41:07.261 2016] Sensor values:
+[Mon Oct 24 02:41:07.261 2016] A0 = 95
+[Mon Oct 24 02:41:07.261 2016] A1 = 903
+[Mon Oct 24 02:41:07.261 2016] A2 = 911
+[Mon Oct 24 02:41:07.261 2016] Bowl water level: Low
+[Mon Oct 24 02:41:12.278 2016] Sensor values:
+[Mon Oct 24 02:41:12.278 2016] A0 = 101
+[Mon Oct 24 02:41:12.278 2016] A1 = 893
+[Mon Oct 24 02:41:12.278 2016] A2 = 912
+[Mon Oct 24 02:41:12.278 2016] Bowl water level: Low
+[Mon Oct 24 02:41:17.279 2016] Sensor values:
+[Mon Oct 24 02:41:17.279 2016] A0 = 86
+[Mon Oct 24 02:41:17.279 2016] A1 = 937
+[Mon Oct 24 02:41:17.279 2016] A2 = 885
+[Mon Oct 24 02:41:17.279 2016] Bowl water level: Low
+[Mon Oct 24 02:41:22.283 2016] Sensor values:
+[Mon Oct 24 02:41:22.283 2016] A0 = 86
+[Mon Oct 24 02:41:22.283 2016] A1 = 931
+[Mon Oct 24 02:41:22.283 2016] A2 = 893
+[Mon Oct 24 02:41:22.283 2016] Bowl water level: Low
+[Mon Oct 24 02:41:27.286 2016] Sensor values:
+[Mon Oct 24 02:41:27.286 2016] A0 = 86
+[Mon Oct 24 02:41:27.286 2016] A1 = 897
+[Mon Oct 24 02:41:27.286 2016] A2 = 933
+[Mon Oct 24 02:41:27.286 2016] Bowl water level: Low
+[Mon Oct 24 02:41:32.308 2016] Sensor values:
+[Mon Oct 24 02:41:32.308 2016] A0 = 94
+[Mon Oct 24 02:41:32.308 2016] A1 = 899
+[Mon Oct 24 02:41:32.308 2016] A2 = 903
+[Mon Oct 24 02:41:32.308 2016] Bowl water level: Low
+[Mon Oct 24 02:41:37.315 2016] Sensor values:
+[Mon Oct 24 02:41:37.315 2016] A0 = 77
+[Mon Oct 24 02:41:37.315 2016] A1 = 933
+[Mon Oct 24 02:41:37.315 2016] A2 = 905
+[Mon Oct 24 02:41:37.315 2016] Bowl water level: Low
+[Mon Oct 24 02:41:40.822 2016] 02:41:14am: Fill timer reached.  Stopping motor.
+[Mon Oct 24 02:41:40.822 2016] 02:41:14am: Saving the following values to EEPROM: 
+[Mon Oct 24 02:41:40.822 2016] Fill Time: 360
+[Mon Oct 24 02:41:40.822 2016] 2, 1, 104, 10, 24
+[Mon Oct 24 02:42:10.866 2016] 02:41:44am: Checking periodic sensor data.
+[Mon Oct 24 02:42:10.882 2016] Sensor values:
+[Mon Oct 24 02:42:10.882 2016] A0 = 93
+[Mon Oct 24 02:42:10.882 2016] A1 = 903
+[Mon Oct 24 02:42:10.882 2016] A2 = 887
+[Mon Oct 24 02:42:10.897 2016] Bowl water level: Low
+[Mon Oct 24 02:42:40.918 2016] 02:42:14am: Checking periodic sensor data.
+[Mon Oct 24 02:42:40.949 2016] Sensor values:
+[Mon Oct 24 02:42:40.949 2016] A0 = 85
+[Mon Oct 24 02:42:40.949 2016] A1 = 928
+[Mon Oct 24 02:42:40.949 2016] A2 = 907
+[Mon Oct 24 02:42:40.949 2016] Bowl water level: Low
+[Mon Oct 24 02:43:10.983 2016] 02:42:44am: Checking periodic sensor data.
+[Mon Oct 24 02:43:11.021 2016] Sensor values:
+[Mon Oct 24 02:43:11.021 2016] A0 = 98
+[Mon Oct 24 02:43:11.021 2016] A1 = 905
+[Mon Oct 24 02:43:11.021 2016] A2 = 891
+[Mon Oct 24 02:43:11.021 2016] Bowl water level: Low
+[Mon Oct 24 02:43:41.048 2016] 02:43:14am: Checking periodic sensor data.
+[Mon Oct 24 02:43:41.064 2016] Sensor values:
+[Mon Oct 24 02:43:41.064 2016] A0 = 95
+[Mon Oct 24 02:43:41.064 2016] A1 = 896
+[Mon Oct 24 02:43:41.097 2016] A2 = 898
+[Mon Oct 24 02:43:41.097 2016] Bowl water level: Low
+[Mon Oct 24 02:44:11.121 2016] 02:43:44am: Checking periodic sensor data.
+[Mon Oct 24 02:44:11.155 2016] Sensor values:
+[Mon Oct 24 02:44:11.155 2016] A0 = 91
+[Mon Oct 24 02:44:11.155 2016] A1 = 883
+[Mon Oct 24 02:44:11.155 2016] A2 = 913
+[Mon Oct 24 02:44:11.155 2016] Bowl water level: Low
+[Mon Oct 24 02:44:41.162 2016] 02:44:14am: Checking periodic sensor data.
+[Mon Oct 24 02:44:41.209 2016] Sensor values:
+[Mon Oct 24 02:44:41.209 2016] A0 = 82
+[Mon Oct 24 02:44:41.209 2016] A1 = 897
+[Mon Oct 24 02:44:41.209 2016] A2 = 924
+[Mon Oct 24 02:44:41.209 2016] Bowl water level: Low
+[Mon Oct 24 02:45:11.237 2016] 02:44:44am: Checking periodic sensor data.
+[Mon Oct 24 02:45:11.268 2016] Sensor values:
+[Mon Oct 24 02:45:11.268 2016] A0 = 90
+[Mon Oct 24 02:45:11.268 2016] A1 = 900
+[Mon Oct 24 02:45:11.268 2016] A2 = 926
+[Mon Oct 24 02:45:11.268 2016] Bowl water level: Low
+[Mon Oct 24 02:45:41.301 2016] 02:45:14am: Checking periodic sensor data.
+[Mon Oct 24 02:45:41.333 2016] Sensor values:
+[Mon Oct 24 02:45:41.333 2016] A0 = 97
+[Mon Oct 24 02:45:41.333 2016] A1 = 905
+[Mon Oct 24 02:45:41.333 2016] A2 = 890
+[Mon Oct 24 02:45:41.333 2016] Bowl water level: Low
+[Mon Oct 24 02:46:11.359 2016] 02:45:44am: Checking periodic sensor data.
+[Mon Oct 24 02:46:11.374 2016] Sensor values:
+[Mon Oct 24 02:46:11.390 2016] A0 = 94
+[Mon Oct 24 02:46:11.390 2016] A1 = 906
+[Mon Oct 24 02:46:11.390 2016] A2 = 903
+[Mon Oct 24 02:46:11.390 2016] Bowl water level: Low
+[Mon Oct 24 02:46:41.449 2016] 02:46:14am: Checking periodic sensor data.
+[Mon Oct 24 02:46:41.466 2016] Sensor values:
+[Mon Oct 24 02:46:41.466 2016] A0 = 108
+[Mon Oct 24 02:46:41.466 2016] A1 = 888
+[Mon Oct 24 02:46:41.466 2016] A2 = 916
+[Mon Oct 24 02:46:41.466 2016] Bowl water level: Low
+[Mon Oct 24 02:47:11.497 2016] 02:46:44am: Checking periodic sensor data.
+[Mon Oct 24 02:47:11.512 2016] Sensor values:
+[Mon Oct 24 02:47:11.528 2016] A0 = 89
+[Mon Oct 24 02:47:11.528 2016] A1 = 902
+[Mon Oct 24 02:47:11.528 2016] A2 = 885
+[Mon Oct 24 02:47:11.528 2016] Bowl water level: Low
+[Mon Oct 24 02:47:41.584 2016] 02:47:14am: Checking periodic sensor data.
+[Mon Oct 24 02:47:41.584 2016] Sensor values:
+[Mon Oct 24 02:47:41.584 2016] A0 = 82
+[Mon Oct 24 02:47:41.584 2016] A1 = 911
+[Mon Oct 24 02:47:41.584 2016] A2 = 912
+[Mon Oct 24 02:47:41.584 2016] Bowl water level: Low
+[Mon Oct 24 02:48:11.629 2016] 02:47:44am: Checking periodic sensor data.
+[Mon Oct 24 02:48:11.650 2016] Sensor values:
+[Mon Oct 24 02:48:11.650 2016] A0 = 89
+[Mon Oct 24 02:48:11.650 2016] A1 = 924
+[Mon Oct 24 02:48:11.650 2016] A2 = 910
+[Mon Oct 24 02:48:11.650 2016] Bowl water level: Low
+[Mon Oct 24 02:48:41.686 2016] 02:48:14am: Checking periodic sensor data.
+[Mon Oct 24 02:48:41.717 2016] Sensor values:
+[Mon Oct 24 02:48:41.717 2016] A0 = 53
+[Mon Oct 24 02:48:41.717 2016] A1 = 183
+[Mon Oct 24 02:48:41.717 2016] A2 = 908
+[Mon Oct 24 02:48:41.717 2016] Bowl water level: Medium
+[Mon Oct 24 02:49:11.752 2016] 02:48:44am: Checking periodic sensor data.
+[Mon Oct 24 02:49:11.784 2016] Sensor values:
+[Mon Oct 24 02:49:11.784 2016] A0 = 378
+[Mon Oct 24 02:49:11.784 2016] A1 = 764
+[Mon Oct 24 02:49:11.784 2016] A2 = 903
+[Mon Oct 24 02:49:11.784 2016] Bowl water level: Low
+[Mon Oct 24 02:49:41.801 2016] 02:49:14am: Checking periodic sensor data.
+[Mon Oct 24 02:49:41.848 2016] Sensor values:
+[Mon Oct 24 02:49:41.848 2016] A0 = 852
+[Mon Oct 24 02:49:41.848 2016] A1 = 837
+[Mon Oct 24 02:49:41.848 2016] A2 = 890
+[Mon Oct 24 02:49:41.848 2016] Bowl water level: Empty
+[Mon Oct 24 02:50:11.869 2016] 02:49:44am: Checking periodic sensor data.
+[Mon Oct 24 02:50:11.916 2016] Sensor values:
+[Mon Oct 24 02:50:11.916 2016] A0 = 873
+[Mon Oct 24 02:50:11.916 2016] A1 = 910
+[Mon Oct 24 02:50:11.916 2016] A2 = 892
+[Mon Oct 24 02:50:11.916 2016] Bowl water level: Empty
+[Mon Oct 24 02:50:11.916 2016] 02:49:44am: Bowl Empty, starting timeout.
+[Mon Oct 24 03:24:09.616 2016] Requesting time from Gateway...
+[Mon Oct 24 04:20:23.414 2016] 04:19:44am: Checking periodic sensor data.
+[Mon Oct 24 04:20:23.451 2016] Sensor values:
+[Mon Oct 24 04:20:23.451 2016] A0 = 907
+[Mon Oct 24 04:20:23.451 2016] A1 = 894
+[Mon Oct 24 04:20:23.451 2016] A2 = 895
+[Mon Oct 24 04:20:23.451 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:23.451 2016] 04:19:44am: Starting Motor
+[Mon Oct 24 04:20:23.451 2016] Bowl filled 3 time(s) today.
+[Mon Oct 24 04:20:28.215 2016] Sensor values:
+[Mon Oct 24 04:20:28.215 2016] A0 = 913
+[Mon Oct 24 04:20:28.215 2016] A1 = 903
+[Mon Oct 24 04:20:28.215 2016] A2 = 904
+[Mon Oct 24 04:20:28.215 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:33.244 2016] Sensor values:
+[Mon Oct 24 04:20:33.244 2016] A0 = 893
+[Mon Oct 24 04:20:33.244 2016] A1 = 936
+[Mon Oct 24 04:20:33.244 2016] A2 = 903
+[Mon Oct 24 04:20:33.244 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:38.242 2016] Sensor values:
+[Mon Oct 24 04:20:38.242 2016] A0 = 913
+[Mon Oct 24 04:20:38.242 2016] A1 = 911
+[Mon Oct 24 04:20:38.242 2016] A2 = 929
+[Mon Oct 24 04:20:38.242 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:43.227 2016] Sensor values:
+[Mon Oct 24 04:20:43.227 2016] A0 = 924
+[Mon Oct 24 04:20:43.248 2016] A1 = 899
+[Mon Oct 24 04:20:43.248 2016] A2 = 882
+[Mon Oct 24 04:20:43.248 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:48.248 2016] Sensor values:
+[Mon Oct 24 04:20:48.248 2016] A0 = 889
+[Mon Oct 24 04:20:48.248 2016] A1 = 903
+[Mon Oct 24 04:20:48.248 2016] A2 = 906
+[Mon Oct 24 04:20:48.248 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:53.270 2016] Sensor values:
+[Mon Oct 24 04:20:53.270 2016] A0 = 895
+[Mon Oct 24 04:20:53.270 2016] A1 = 885
+[Mon Oct 24 04:20:53.270 2016] A2 = 931
+[Mon Oct 24 04:20:53.270 2016] Bowl water level: Empty
+[Mon Oct 24 04:20:58.289 2016] Sensor values:
+[Mon Oct 24 04:20:58.289 2016] A0 = 882
+[Mon Oct 24 04:20:58.289 2016] A1 = 908
+[Mon Oct 24 04:20:58.289 2016] A2 = 906
+[Mon Oct 24 04:20:58.289 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:03.295 2016] Sensor values:
+[Mon Oct 24 04:21:03.295 2016] A0 = 887
+[Mon Oct 24 04:21:03.295 2016] A1 = 909
+[Mon Oct 24 04:21:03.295 2016] A2 = 900
+[Mon Oct 24 04:21:03.295 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:08.303 2016] Sensor values:
+[Mon Oct 24 04:21:08.303 2016] A0 = 913
+[Mon Oct 24 04:21:08.303 2016] A1 = 877
+[Mon Oct 24 04:21:08.303 2016] A2 = 919
+[Mon Oct 24 04:21:08.303 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:13.318 2016] Sensor values:
+[Mon Oct 24 04:21:13.318 2016] A0 = 907
+[Mon Oct 24 04:21:13.318 2016] A1 = 981
+[Mon Oct 24 04:21:13.318 2016] A2 = 906
+[Mon Oct 24 04:21:13.318 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:18.320 2016] Sensor values:
+[Mon Oct 24 04:21:18.320 2016] A0 = 907
+[Mon Oct 24 04:21:18.320 2016] A1 = 882
+[Mon Oct 24 04:21:18.320 2016] A2 = 910
+[Mon Oct 24 04:21:18.320 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:23.334 2016] Sensor values:
+[Mon Oct 24 04:21:23.334 2016] A0 = 910
+[Mon Oct 24 04:21:23.334 2016] A1 = 903
+[Mon Oct 24 04:21:23.334 2016] A2 = 908
+[Mon Oct 24 04:21:23.334 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:28.345 2016] Sensor values:
+[Mon Oct 24 04:21:28.345 2016] A0 = 896
+[Mon Oct 24 04:21:28.345 2016] A1 = 904
+[Mon Oct 24 04:21:28.345 2016] A2 = 914
+[Mon Oct 24 04:21:28.345 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:33.360 2016] Sensor values:
+[Mon Oct 24 04:21:33.360 2016] A0 = 933
+[Mon Oct 24 04:21:33.360 2016] A1 = 895
+[Mon Oct 24 04:21:33.360 2016] A2 = 914
+[Mon Oct 24 04:21:33.360 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:38.358 2016] Sensor values:
+[Mon Oct 24 04:21:38.358 2016] A0 = 891
+[Mon Oct 24 04:21:38.358 2016] A1 = 967
+[Mon Oct 24 04:21:38.358 2016] A2 = 891
+[Mon Oct 24 04:21:38.358 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:43.375 2016] Sensor values:
+[Mon Oct 24 04:21:43.375 2016] A0 = 910
+[Mon Oct 24 04:21:43.375 2016] A1 = 871
+[Mon Oct 24 04:21:43.375 2016] A2 = 919
+[Mon Oct 24 04:21:43.375 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:48.386 2016] Sensor values:
+[Mon Oct 24 04:21:48.386 2016] A0 = 909
+[Mon Oct 24 04:21:48.386 2016] A1 = 903
+[Mon Oct 24 04:21:48.386 2016] A2 = 884
+[Mon Oct 24 04:21:48.386 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:53.398 2016] Sensor values:
+[Mon Oct 24 04:21:53.398 2016] A0 = 897
+[Mon Oct 24 04:21:53.398 2016] A1 = 910
+[Mon Oct 24 04:21:53.398 2016] A2 = 938
+[Mon Oct 24 04:21:53.398 2016] Bowl water level: Empty
+[Mon Oct 24 04:21:58.417 2016] Sensor values:
+[Mon Oct 24 04:21:58.417 2016] A0 = 901
+[Mon Oct 24 04:21:58.417 2016] A1 = 905
+[Mon Oct 24 04:21:58.417 2016] A2 = 911
+[Mon Oct 24 04:21:58.417 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:03.399 2016] Sensor values:
+[Mon Oct 24 04:22:03.399 2016] A0 = 853
+[Mon Oct 24 04:22:03.415 2016] A1 = 919
+[Mon Oct 24 04:22:03.415 2016] A2 = 929
+[Mon Oct 24 04:22:03.415 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:08.431 2016] Sensor values:
+[Mon Oct 24 04:22:08.431 2016] A0 = 940
+[Mon Oct 24 04:22:08.431 2016] A1 = 885
+[Mon Oct 24 04:22:08.431 2016] A2 = 904
+[Mon Oct 24 04:22:08.431 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:13.449 2016] Sensor values:
+[Mon Oct 24 04:22:13.449 2016] A0 = 904
+[Mon Oct 24 04:22:13.449 2016] A1 = 916
+[Mon Oct 24 04:22:13.449 2016] A2 = 871
+[Mon Oct 24 04:22:13.449 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:18.455 2016] Sensor values:
+[Mon Oct 24 04:22:18.455 2016] A0 = 883
+[Mon Oct 24 04:22:18.455 2016] A1 = 904
+[Mon Oct 24 04:22:18.455 2016] A2 = 910
+[Mon Oct 24 04:22:18.455 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:23.469 2016] Sensor values:
+[Mon Oct 24 04:22:23.469 2016] A0 = 911
+[Mon Oct 24 04:22:23.469 2016] A1 = 912
+[Mon Oct 24 04:22:23.469 2016] A2 = 893
+[Mon Oct 24 04:22:23.469 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:28.477 2016] Sensor values:
+[Mon Oct 24 04:22:28.477 2016] A0 = 900
+[Mon Oct 24 04:22:28.477 2016] A1 = 931
+[Mon Oct 24 04:22:28.477 2016] A2 = 910
+[Mon Oct 24 04:22:28.477 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:33.488 2016] Sensor values:
+[Mon Oct 24 04:22:33.488 2016] A0 = 895
+[Mon Oct 24 04:22:33.488 2016] A1 = 876
+[Mon Oct 24 04:22:33.488 2016] A2 = 902
+[Mon Oct 24 04:22:33.488 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:38.493 2016] Sensor values:
+[Mon Oct 24 04:22:38.493 2016] A0 = 904
+[Mon Oct 24 04:22:38.493 2016] A1 = 909
+[Mon Oct 24 04:22:38.493 2016] A2 = 860
+[Mon Oct 24 04:22:38.493 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:43.507 2016] Sensor values:
+[Mon Oct 24 04:22:43.507 2016] A0 = 910
+[Mon Oct 24 04:22:43.507 2016] A1 = 903
+[Mon Oct 24 04:22:43.507 2016] A2 = 881
+[Mon Oct 24 04:22:43.507 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:48.522 2016] Sensor values:
+[Mon Oct 24 04:22:48.522 2016] A0 = 912
+[Mon Oct 24 04:22:48.522 2016] A1 = 900
+[Mon Oct 24 04:22:48.522 2016] A2 = 910
+[Mon Oct 24 04:22:48.522 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:53.522 2016] Sensor values:
+[Mon Oct 24 04:22:53.522 2016] A0 = 900
+[Mon Oct 24 04:22:53.522 2016] A1 = 889
+[Mon Oct 24 04:22:53.522 2016] A2 = 904
+[Mon Oct 24 04:22:53.522 2016] Bowl water level: Empty
+[Mon Oct 24 04:22:58.944 2016] Sensor values:
+[Mon Oct 24 04:22:58.944 2016] A0 = 910
+[Mon Oct 24 04:22:58.944 2016] A1 = 911
+[Mon Oct 24 04:22:58.944 2016] A2 = 884
+[Mon Oct 24 04:22:58.944 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:03.966 2016] Sensor values:
+[Mon Oct 24 04:23:03.966 2016] A0 = 896
+[Mon Oct 24 04:23:03.966 2016] A1 = 910
+[Mon Oct 24 04:23:03.966 2016] A2 = 875
+[Mon Oct 24 04:23:03.966 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:08.961 2016] Sensor values:
+[Mon Oct 24 04:23:08.961 2016] A0 = 960
+[Mon Oct 24 04:23:08.961 2016] A1 = 911
+[Mon Oct 24 04:23:08.961 2016] A2 = 914
+[Mon Oct 24 04:23:08.961 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:13.947 2016] Sensor values:
+[Mon Oct 24 04:23:13.963 2016] A0 = 898
+[Mon Oct 24 04:23:13.963 2016] A1 = 914
+[Mon Oct 24 04:23:13.963 2016] A2 = 893
+[Mon Oct 24 04:23:13.963 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:18.983 2016] Sensor values:
+[Mon Oct 24 04:23:18.983 2016] A0 = 904
+[Mon Oct 24 04:23:18.983 2016] A1 = 922
+[Mon Oct 24 04:23:18.983 2016] A2 = 885
+[Mon Oct 24 04:23:18.983 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:23.990 2016] Sensor values:
+[Mon Oct 24 04:23:23.990 2016] A0 = 951
+[Mon Oct 24 04:23:23.990 2016] A1 = 880
+[Mon Oct 24 04:23:23.990 2016] A2 = 902
+[Mon Oct 24 04:23:23.990 2016] Bowl water level: Empty
+[Mon Oct 24 04:23:24.022 2016] 04:22:45am: Fill timer reached.  Stopping motor.
+[Mon Oct 24 04:23:24.022 2016] 04:22:45am: Saving the following values to EEPROM: 
+[Mon Oct 24 04:23:24.022 2016] Fill Time: 540
+[Mon Oct 24 04:23:24.022 2016] 3, 2, 28, 10, 24
+[Mon Oct 24 04:23:54.146 2016] 04:23:15am: Checking periodic sensor data.
+[Mon Oct 24 04:23:54.162 2016] Sensor values:
+[Mon Oct 24 04:23:54.162 2016] A0 = 921
+[Mon Oct 24 04:23:54.162 2016] A1 = 881
+[Mon Oct 24 04:23:54.162 2016] A2 = 917
+[Mon Oct 24 04:23:54.162 2016] Bowl water level: Empty
+[Mon Oct 24 04:24:19.192 2016] Requesting time from Gateway...
+[Mon Oct 24 04:24:24.194 2016] 04:23:45am: Checking periodic sensor data.
+[Mon Oct 24 04:24:24.210 2016] Sensor values:
+[Mon Oct 24 04:24:24.210 2016] A0 = 911
+[Mon Oct 24 04:24:24.210 2016] A1 = 882
+[Mon Oct 24 04:24:24.226 2016] A2 = 917
+[Mon Oct 24 04:24:24.226 2016] Bowl water level: Empty
+[Mon Oct 24 04:24:24.226 2016] 04:23:45am: Bowl Empty, starting timeout.
+[Mon Oct 24 05:24:28.866 2016] Requesting time from Gateway...
+[Mon Oct 24 05:54:35.688 2016] 05:53:45am: Checking periodic sensor data.
+[Mon Oct 24 05:54:35.707 2016] Sensor values:
+[Mon Oct 24 05:54:35.707 2016] A0 = 903
+[Mon Oct 24 05:54:35.738 2016] A1 = 909
+[Mon Oct 24 05:54:35.738 2016] A2 = 872
+[Mon Oct 24 05:54:35.738 2016] Bowl water level: Empty
+[Mon Oct 24 05:54:35.738 2016] 05:53:45am: Starting Motor
+[Mon Oct 24 05:54:35.738 2016] Bowl filled 4 time(s) today.
+[Mon Oct 24 05:54:38.714 2016] Sensor values:
+[Mon Oct 24 05:54:38.714 2016] A0 = 899
+[Mon Oct 24 05:54:38.714 2016] A1 = 916
+[Mon Oct 24 05:54:38.714 2016] A2 = 900
+[Mon Oct 24 05:54:38.714 2016] Bowl water level: Empty
+[Mon Oct 24 05:54:43.728 2016] Sensor values:
+[Mon Oct 24 05:54:43.728 2016] A0 = 898
+[Mon Oct 24 05:54:43.728 2016] A1 = 918
+[Mon Oct 24 05:54:43.728 2016] A2 = 909
+[Mon Oct 24 05:54:43.728 2016] Bowl water level: Empty
+[Mon Oct 24 05:54:44.714 2016] 05:53:54am: Button Pressed. State was: 1  State is: 0
+[Mon Oct 24 05:54:44.714 2016] Stopping Motor.
+[Mon Oct 24 05:54:44.714 2016] 05:53:54am: Saving the following values to EEPROM: 
+[Mon Oct 24 05:54:44.714 2016] Fill Time: 549
+[Mon Oct 24 05:54:44.714 2016] 4, 2, 37, 10, 24
